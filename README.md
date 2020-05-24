@@ -1,0 +1,2 @@
+- [English](vjyq.github.io/en)
+- [中文](vjyq.github.io/zh)
