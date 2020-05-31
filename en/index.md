@@ -1,3 +1,4 @@
+- [Copypaste pure text in MacOS](./2020/05/31/pureText.md)
 - [Hog the wall](https://vjyq.github.io/wallhog/)
 - [Good day](https://vjyq.github.io/gooday/)
 - [Git notes in a lazy way](https://vjyq.github.io/etontig/)
