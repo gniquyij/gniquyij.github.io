@@ -19,18 +19,13 @@ But it still doesn't seem efficient to get the copied - you need to 1) open term
 Below is my resolution. In brief, I made them in a keyboard shortcut. 3 steps to setup: 
 
 1. Package the bash command into an application
-
 ![automator-application-0](automator-application-0.png)
 ![automator-application-1](automator-application-1.png)
-
 2. Automate the exec action
-
 ![automator-quickAction-0](automator-quickAction-0.png)
 ![automator-quickAction-1](automator-quickAction-1.png)
-
 3. Set the shortcut
 - Here's Apple's keyboard shortcuts: https://support.apple.com/en-us/HT201236. Duplicates shall be avoided. 
-
 ![shortcut](shortcut.png)
 
 That's it. I could get pure text via a Command-Option-P between Command-C Command-V like the GIF at the beginning.
