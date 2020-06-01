@@ -1,6 +1,6 @@
 <img src="./../avatar.png" style="width: 400px; height: 400px"/>
 
-Hi there. This is Ji Yu-Qing <audio src="./../name.mp3" controls="controls">[dʒɪ(falling tone) ju(dipping tone) tsɪŋ(high-level tone)]</audio> and welcome to my channel.
+Hi there. This is Ji Yu-Qing <audio width="200" height="30" src="./../name.mp3" controls="controls">[dʒɪ(falling tone) ju(dipping tone) tsɪŋ(high-level tone)]</audio> and welcome to my channel.
 
 I do not know what to say when people ask me to introduce myself cause I am not several words. But if you don't tag yourself, people will still tag you, even worse, in a way you don't want to see. So it may be better for me to do it.
 
