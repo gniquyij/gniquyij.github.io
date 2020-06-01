@@ -13,7 +13,7 @@ Macbook Pro
 - FFmpeg
 - Fliqlo
 - FractalClock
-- Get Plain Text
+- ~~Get Plain Text~~ -> https://vjyq.github.io/en/2020/05/31/pureText.html
 - GIMP
 - Git
 - IDEA
