@@ -1,4 +1,4 @@
-![avatar](./../avatar.png)
+<img src="./../avatar.png" style="width: 400px; height: 400px"/>
 
 Hi there. This is Yu-Qing Ji [ju(dipping tone) tsɪŋ(high-level tone) dʒɪ(falling tone)] and welcome to my channel.
 
