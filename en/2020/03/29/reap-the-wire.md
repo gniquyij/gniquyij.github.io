@@ -82,6 +82,6 @@ Do not be fooled by my screenshot above ;)
 Those are the only pages I got in the end - I started the script, saw 'everything works well', then went to sleep. When I checked it out the next day, I found e.g. issue id=87020 with the pages only for preview! 
 The most likely problem I guess was the IP ban since I needed proxy to open any issue page in my web browser, which means I should make my script over the Wall. Will try if there's a next time.
 
-<div style="border-top:1px solid #e1e4e8;padding-top:16px"></div>
+<div><a href="https://vjyq.github.io/en/about"><img src="./../avatar.png" style="float:right;width:80px;height:80px"/></a></div><div style="border-top:1px solid #e1e4e8;padding-top:16px"></div>
 <div>© 2018-2020 by YUQING JI</div>
 <div style="padding-top:0.3em"><a href="https://vjyq.github.io/vjyq.github.io/en/">Blog</a> | <a href="mailto:yuqing.ji@outlook.com">Email</a> | <a href="https://github.com/vjyq">Github</a></div>

@@ -1,4 +1,4 @@
-- [Copypaste pure text in MacOS](./2020/05/31/pureText.md)
+- [Copypaste pure text in macOS](./2020/05/31/pureText.md)
 - [Have a brain break](https://vjyq.github.io/brainbreak/)
 - [Hog the wall](https://vjyq.github.io/wallhog/)
 - [Good day](https://vjyq.github.io/gooday/)
