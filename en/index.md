@@ -12,6 +12,6 @@
 - [Tricks for your Github Pages](./2020/01/20/tricks-for-gh-pages.md)
 - [220 and 284](./2018/08/06/220-and-284.md)
 
-<div style="border-top:1px solid #e1e4e8;padding-top:16px"></div>
+<div style="border-top:1px solid #e1e4e8;padding-top:16px"></div><div><img src="./../avatar.png" style="float: right; width: 50px; height: 50px"/></div>
 <div>© 2018-2020 by YUQING JI</div>
 <div style="padding-top:0.3em"><a href="https://vjyq.github.io/vjyq.github.io/en/about">About</a> | <a href="mailto:yuqing.ji@outlook.com">Email</a> | <a href="https://github.com/vjyq">Github</a></div>
