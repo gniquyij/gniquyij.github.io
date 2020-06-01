@@ -1,3 +1,5 @@
+![avatar](./../avatar.png)
+
 Hi there. This is Yu-Qing Ji [ju(dipping tone) tsɪŋ(high-level tone) dʒɪ(falling tone)] and welcome to my channel.
 
 I do not know what to say when people ask me to introduce myself cause I am not several words. But if you don't tag yourself, people will still tag you, even worse, in a way you don't want to see. So it may be better for me to do it.
