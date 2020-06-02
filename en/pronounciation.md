@@ -1,8 +1,6 @@
-Ji Yu-Qing
+Ji Yu-Qing |dʒɪ ju tsɪŋ|
 
-- [dʒɪ(falling tone) ju(dipping tone) tsɪŋ(high-level tone)]
-
-- <audio width="200" height="30" src="./../name.mp3" controls="controls">dʒɪ ju tsɪŋ</audio>
+<audio width="200" height="30" src="./../name.mp3" controls="controls">dʒɪ ju tsɪŋ</audio>
 
 <br>
 
