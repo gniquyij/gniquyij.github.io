@@ -1,3 +1,15 @@
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-168364188-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-168364188-1');
+</script>
+</head>
+
 - [Copypaste pure text in macOS](en/2020/05/31/pureText.md)
 - [Have a brain break](https://vjyq.github.io/brainbreak/)
 - [Hog the wall](https://vjyq.github.io/wallhog/)
