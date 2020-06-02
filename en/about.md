@@ -1,6 +1,6 @@
 <img src="./../avatar.png" style="width: 400px; height: 400px"/>
 
-Hi there. This is Ji Yu-Qing (<a target="_blank" href="pronounciation.md">hard to pronounce?</a>) and welcome to my channel.
+Hi there. This is Ji Yu-Qing ([hard to pronounce?](pronounciation.md){:target="_blank"}) and welcome to my channel.
 
 I do not know what to say when people ask me to introduce myself cause I am not several words. But if you don't tag yourself, people will still tag you, even worse, in a way you don't want to see. So it may be better for me to do it.
 
