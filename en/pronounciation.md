@@ -1,4 +1,4 @@
-Ji Yu-Qing |dʒɪ ju tsɪŋ|
+Ji Yu-Qing \|dʒɪ ju tsɪŋ\|
 
 <audio width="200" height="30" src="./../name.mp3" controls="controls">dʒɪ ju tsɪŋ</audio>
 
