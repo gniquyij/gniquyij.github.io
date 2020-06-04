@@ -24,6 +24,6 @@
 - [Tricks for your Github Pages](en/2020/01/20/tricks-for-gh-pages.md)
 - [220 and 284](en/2018/08/06/220-and-284.md)
 
-<div><a href="https://vjyq.github.io/en/about"><img src="avatar.png" style="float:right;width:85px;height:85px"/></a></div><div style="border-top:1px solid #e1e4e8;padding-top:16px"></div>
+<div><a href="https://vjyq.github.io/daily"><img src="avatar.png" style="float:right;width:85px;height:85px"/></a></div><div style="border-top:1px solid #e1e4e8;padding-top:16px"></div>
 <div>© 2018-2020 by YUQING JI</div>
-<div style="padding-top:0.3em"><a href="mailto:yuqing.ji@outlook.com">Email</a> | <a href="https://github.com/vjyq">Github</a> | <a href="https://vjyq.github.io/daily">Daily</a> | <a href="https://vjyq.github.io/zh">中文</a></div>
+<div style="padding-top:0.3em"><a href="https://vjyq.github.io/en/about">About</a> | <a href="mailto:yuqing.ji@outlook.com">Email</a> | <a href="https://github.com/vjyq">Github</a> | <a href="https://vjyq.github.io/zh">中文</a></div>
