@@ -16,7 +16,7 @@
 - [Good day](https://vjyq.github.io/gooday/)
 - [Git notes in a lazy way](https://vjyq.github.io/etontig/)
 - [Reap the Wire](en/2020/03/29/reap-the-wire.md)
-- [Dark side of OS X](https://vjyq.github.io/tuqiu/)
+- [Dark side of macOS](https://vjyq.github.io/tuqiu/)
 - [Subscribe everything with one tool](https://vjyq.github.io/satsie/)
 - [gist.github.com](https://vjyq.github.io/wcrXic/gist-github-com/gist-github-com)
 - [bclock forever](https://vjyq.github.io/bclock/)
