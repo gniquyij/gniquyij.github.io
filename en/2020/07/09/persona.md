@@ -8,7 +8,7 @@ This is a question I’ve asked myself for several times in the past 6 years. It
 
 > A putty-like modelling material <a href="#1">[1]</a>
 
-I was aware that I should find something I would like to do meanwhile someone would pay me to do in my senior year of university. After trials with internships, volunteers, etc, I found I did not hate to interact with products - loving to see how people react to a product meanwhile come up with a way to make the thing better to use based on the reactions. I got an conclusion that maybe I could be a User Experience Designer or Product Manager - a role requiring insights on the consumer meanwhile I could create something based on my insights. 
+I was aware that I should find something I would like to do meanwhile someone would pay me to do in my senior year of university. After trials with internships, volunteers, etc, I found I did not hate to interact with products - loving to see how people react to a product then come up with a way to make the thing better to use based on the reactions. I got an conclusion that maybe I could be a User Experience Designer or Product Manager - a role requiring insights on the consumer meanwhile I could create something based on my insights. 
 
 Guess what? 
 
