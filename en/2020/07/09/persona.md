@@ -103,7 +103,7 @@ How could I step out of the frame (past)? I do not know. Hope I could share with
 
 <br>
 
-This is a trial. I’ve never written about such a topic in English before. I wish by using a language I am not familiar with (simple words only) I could make myself clearer. All I said here is based on [what I learnt in the past 6 years](https://vjyq.github.io/en/about) - just my thoughts. It would be great if they are useful to you in some way - but everyone's different, I do not expect anything. 
+This is a trial. I’ve never written about such a topic in English before. I wish by using a language I am not familiar with (simple words only) I could make myself clearer. All I said here is based on [what I learnt in the past 6 years](https://vjyq.github.io/en/about){:target="_blank"} - just my thoughts. It would be great if they are useful to you in some way - but everyone's different, I do not expect anything. 
 
 If any comments/questions/inputs, please do not hesitate to let me know. 
 
