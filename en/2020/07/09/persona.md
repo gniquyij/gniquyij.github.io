@@ -99,7 +99,7 @@ Instead of resolving the issue, is there any way to solve the problem?
 
 I am inspired by people around me. Sometimes they use some genius (abnormal but workable) ways to solve some problems. Not only they know what/how/when/where/who/why, they redefine what to do, which could be, including a tool to unite the pieces.
 
-How could I step out of the frame (past)? I do not know. Hope I could share with you related experience some day.
+How could I step out of the frame (past) like this? I do not know. Hope I could share with you related experience some day.
 
 <br>
 
