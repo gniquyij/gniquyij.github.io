@@ -42,7 +42,7 @@ I realized I could not do everything so I tried to focus. I called this Plugin s
 
 - Do my job, really well.
 
-I decided to be a tester - the first tester in the company, requiring me to set up everything from scratch. I started to think about what a good tester should be. Here're the things I find most companies expect a Quality Assurance (hereinafter referred to as 'QA') to be in charge of also what I've been doing:
+I decided to be a tester - the first tester in the company, requiring me to set up everything from scratch. I started to think about what a good tester should be like. Here're the things I find most companies expect a Quality Assurance (hereinafter referred to as 'QA') to be in charge of also what I've been doing:
 
 - test case
 - manual test
