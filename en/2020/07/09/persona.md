@@ -78,8 +78,8 @@ You might ask why a QA should cover other roles' work. Try to think from the com
 
 See, Plugin is not the end. A better individual is the one who:
 
-- professional enough
-- fit into the environment
+- is professional enough
+- can fit into the environment
 
 I call it Transformer stage - plugin like a plasticine - an expert who does what the environment requires. Some companies hire some experts but there're not many improvements in practice. I think environment fit missing might be one of the reasons. 
 
