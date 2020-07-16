@@ -58,7 +58,7 @@ Nothing is as it seems - being a plugin taught me this. I've never thought about
 
 You think I would be okay to deal with my job? Pity not. I've been still struggling. 
 
-Below are parts of my daily. Once an issue, I need to:
+Below are screenshots of my daily. Once an issue, I need to:
 
 - reproduce it
 - locate the cause
