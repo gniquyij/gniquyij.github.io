@@ -10,6 +10,7 @@
 </script>
 </head>
 
+- [Plasticine, plugin, transformer](en/2020/07/09/persona.md)
 - [Copypaste pure text in macOS](en/2020/05/31/pureText.md)
 - [Have a brain break](https://vjyq.github.io/brainbreak/)
 - [Hog the wall](https://vjyq.github.io/wallhog/)
