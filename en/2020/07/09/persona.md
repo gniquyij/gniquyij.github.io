@@ -101,7 +101,7 @@ I am inspired by people around me. Sometimes they use some genius (abnormal but 
 
 How could I step out of the frame (past)? I do not know. Hope I could share with you related experience some day.
 
----
+<br>
 
 This is a trial. I’ve never written about such a topic in English before. I wish by using a language I am not familiar with (simple words only) I could make myself clearer. All I said here is based on what I learnt in the past 6 years - here's my brief: https://vjyq.github.io/en/about - just my thoughts. It would be great if they are useful to you in some way - but everyone's different, I do not expect anything. 
 
