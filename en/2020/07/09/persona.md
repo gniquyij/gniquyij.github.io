@@ -50,7 +50,7 @@ I decided to be a tester - the first tester in the company, requiring me to set 
 - API <a href="#4">[4]</a> automation test
 - performance test
 
-Nothing is as it seems - being a plugin taught me this. I've never thought about that many things a QA should be able to do - looking back at what I did when I was an Account Manager, once there's an issue, I just clicked clicked clicked on the page then wrote down what I found in the UI, how could engineers take the issue forward with little information provide by me? 
+Nothing is as it seems - being a plugin taught me this. I've never thought about that many things a QA should be able to do - looking back at what I did when I was an Account Manager, once there's an issue, I just clicked clicked clicked on the page then wrote down what I found in the UI, how could engineers take the issue forward with little information provided by me? 
 
 ## Transformer
 
