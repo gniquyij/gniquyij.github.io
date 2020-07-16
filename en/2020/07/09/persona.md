@@ -56,7 +56,7 @@ Nothing is as it seems - being a plugin taught me this. I've never thought about
 
 > Living, human-like robots with the unique ability to turn into vehicles or beasts <a href="#5">[5]</a>
 
-You think I would be okay to deal with my job? Pity, not. I've been still struggling. 
+You think I would be okay to deal with my job? Pity, no. I've been still struggling. 
 
 Below are parts of my daily. Once an issue, I need to:
 
@@ -76,7 +76,7 @@ To be a qualified QA, at least in a startup, I think it's not enough that you ha
 
 You might ask why a QA should cover other roles' work. Try to think from the company's perspective, there should be someone to resolve the issue, right? It doesn't matter who you are. 
 
-See, Plugin is not the end. A better candidate is the one who:
+See, Plugin is not the end. A better individual is the one who:
 
 - professional enough
 - fit into the environment
