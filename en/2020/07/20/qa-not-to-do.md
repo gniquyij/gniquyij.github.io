@@ -2,7 +2,7 @@
 
 Here are the things I’ve been trying to avoid as a Quality Assurance, in no particular order.
 
-- Make assumptions without validation. 
+- Make assumptions without validations. 
 - No documents. 
 - No expectations. 
 - No patience.
