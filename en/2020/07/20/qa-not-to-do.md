@@ -8,7 +8,10 @@ Here are the things I’ve been trying to avoid as a Quality Assurance, in no pa
 - No patience.
 - No priority.
 - No scope. 
+
 - Repeat myself. 
+People think QA is a job requiring repeating - once found an issue, reproducing, debugging, verifying, etc. Is there any way to automate them?
+
 - Think dependently. 
 
 <div><a href="https://vjyq.github.io/daily"><img src="https://github.com/vjyq/vjyq.github.io/blob/master/avatar.png?raw=true" style="float:right;width:85px;height:85px"/></a></div><div style="border-top:1px solid #e1e4e8;padding-top:16px"></div>
