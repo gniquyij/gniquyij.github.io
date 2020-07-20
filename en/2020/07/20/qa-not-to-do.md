@@ -12,7 +12,7 @@ Can you remember everything?
 
 - No expectations. 
 
-You do not know what you are going to test. What are you going to test?
+When you do not know what you are going to test, what are you going to test?
 
 - No patience.
 
