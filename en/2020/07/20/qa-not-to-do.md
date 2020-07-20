@@ -12,7 +12,7 @@ Can you remember everything?
 
 - No expectations. 
 
-When you do not know what you are going to test, what are you going to test?
+When you don't know what you are going to test, what are you going to test?
 
 - No patience.
 
@@ -26,7 +26,7 @@ You would not have time for a blocking issue cause you've spent your time on a n
 
 People will define the scope if you don't.
 
-- Repeat myself. 
+- Repeat yourself. 
 
 People think QA is a job requiring repeating - once found an issue, reproducing, debugging, verifying, etc.. Is there any other way to get them done?
 
