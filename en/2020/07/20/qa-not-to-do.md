@@ -8,7 +8,7 @@ Developers always assume no bugs in their code.
 
 - No documents. 
 
-Are you able to remember everything?
+Can you remember everything?
 
 - No expectations. 
 
