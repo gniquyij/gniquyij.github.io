@@ -3,14 +3,30 @@
 Here are the things I’ve been trying to avoid as a Quality Assurance, in no particular order.
 
 - Make an assumption without a validation. 
+
+Developers always assume no bugs in their code.
+
 - No documents. 
+
+Are you able to remember everything?
+
 - No expectations. 
+
+You do not know what you are going to test. What are you going to test?
+
 - No patience.
+
 - No priority.
+
+You would not have time for a blocking issue cause you spent your time on a non-blocking.
+
 - No scope. 
 
+People will define the scope if you don't.
+
 - Repeat myself. 
-People think QA is a job requiring repeating - once found an issue, reproducing, debugging, verifying, etc. Is there any way to automate them?
+
+People think QA is a job requiring repeating - once found an issue, reproducing, debugging, verifying, etc.. Is there any other way to get them done?
 
 - Think dependently. 
 
