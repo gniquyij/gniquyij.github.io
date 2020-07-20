@@ -4,35 +4,35 @@ Here are the things I’ve been trying to avoid as a Quality Assurance, in no pa
 
 - Make an assumption without a validation. 
 
-Developers always assume no bugs in their code.
+    - Developers always assume no bugs in their code.
 
 - No documents. 
 
-Can you remember everything?
+    - Can you remember everything?
 
 - No expectations. 
 
-When you don't know what you are going to test, what are you going to test?
+    - When you don't know what you are going to test, what are you going to test?
 
 - No patience.
 
-What can you do without patience?
+    - What can you do without patience?
 
 - No priority.
 
-You would not have time for a blocking issue cause you've spent your time on a non-blocking.
+    - You would not have time for a blocking issue cause you've spent your time on a non-blocking.
 
 - No scope. 
 
-People will define the scope if you don't.
+    - People will define the scope if you don't.
 
 - Repeat yourself. 
 
-People think QA is a job requiring repeating - once found an issue, reproducing, debugging, verifying, etc.. Is there any other way to get them done?
+    - People think QA is a job requiring repeating - once found an issue, reproducing, debugging, verifying, etc.. Is there any other way to get them done?
 
 - Think dependently. 
 
-Multi inputs, multi outputs?
+    - Multi inputs, multi outputs?
 
 <div><a href="https://vjyq.github.io/daily"><img src="https://github.com/vjyq/vjyq.github.io/blob/master/avatar.png?raw=true" style="float:right;width:85px;height:85px"/></a></div><div style="border-top:1px solid #e1e4e8;padding-top:16px"></div>
 <div>© 2018-2020 by YUQING JI</div>
