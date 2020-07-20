@@ -10,6 +10,7 @@
 </script>
 </head>
 
+- [QA Not-To-Do](en/2020/07/20/qa-not-to-do.md)
 - [Plasticine, plugin, transformer](en/2020/07/09/persona.md)
 - [Copypaste pure text in macOS](en/2020/05/31/pureText.md)
 - [Have a brain break](https://vjyq.github.io/brainbreak/)
