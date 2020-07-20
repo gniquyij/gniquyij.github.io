@@ -16,6 +16,8 @@ When you do not know what you are going to test, what are you going to test?
 
 - No patience.
 
+What can you do without patience?
+
 - No priority.
 
 You would not have time for a blocking issue cause you've spent your time on a non-blocking.
