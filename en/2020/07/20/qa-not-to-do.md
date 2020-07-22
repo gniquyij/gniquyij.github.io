@@ -5,6 +5,10 @@ Here are the things I’ve been trying to avoid as a Quality Assurance, in no pa
 - Make an assumption without a validation. 
 
     - Developers always assume no bugs in their code.
+    
+- No curiosity.
+
+    - What motivates you to figure out what happened? Money?
 
 - No documents. 
 
