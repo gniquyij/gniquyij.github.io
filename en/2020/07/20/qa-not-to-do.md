@@ -1,6 +1,6 @@
 # QA Not-To-Do
 
-Here are the things I’ve been trying to avoid as a Quality Assurance, in no particular order.
+Here are the things I’ve been trying to avoid as a Quality Assurance (hereinafter referred to as ‘QA’), in no particular order.
 
 - Make an assumption without a validation. 
 
