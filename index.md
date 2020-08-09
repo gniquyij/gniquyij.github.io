@@ -10,6 +10,7 @@
 </script>
 </head>
 
+- [蓝心湄 - 走路的女孩（Bootleg Yu-Qing Ji）](https://www.youtube.com/watch?v=75DWrJevre8)
 - [QA Not-To-Do](en/2020/07/20/qa-not-to-do.md)
 - [Plasticine, plugin, transformer](en/2020/07/09/persona.md)
 - [Copypaste pure text in macOS](en/2020/05/31/pureText.md)
