@@ -18,6 +18,6 @@ Really enjoy solving problems, especially the ones which I have never tried befo
 
 Prefer micro than macro - happy to see myself getting more practical -- keep truth to myself, face the problem then just try to solve it.  
 
-<div><a href="https://vjyq.github.io/daily"><img src="https://github.com/vjyq/vjyq.github.io/blob/master/avatar.png?raw=true" style="float:right;width:85px;height:85px"/></a></div><div style="border-top:1px solid #e1e4e8;padding-top:16px"></div>
+<div><a href="https://gniquyij.github.io/daily"><img src="https://github.com/gniquyij/gniquyij.github.io/blob/master/avatar.png?raw=true" style="float:right;width:85px;height:85px"/></a></div><div style="border-top:1px solid #e1e4e8;padding-top:16px"></div>
 <div>© 2018-2020 by YUQING JI</div>
-<div style="padding-top:0.3em"><a href="https://vjyq.github.io/">Blog</a> | <a href="mailto:yuqing.ji@outlook.com">Email</a> | <a href="https://github.com/vjyq">Github</a> | <a href="https://www.instagram.com/gniquyij/">Instagram</a> | <a href="https://vjyq.github.io/zh">中文</a></div>
+<div style="padding-top:0.3em"><a href="https://gniquyij.github.io/">Blog</a> | <a href="mailto:yuqing.ji@outlook.com">Email</a> | <a href="https://github.com/gniquyij">Github</a> | <a href="https://www.instagram.com/gniquyij/">Instagram</a> | <a href="https://gniquyij.github.io/zh">中文</a></div>

@@ -103,7 +103,7 @@ How could I step out of the frame (past) like this? I do not know. Hope I could 
 
 <br>
 
-This is a trial. I’ve never written about such a topic in English before. I wish by using a language I am not familiar with (simple words only) I could make myself clearer. All I said here is based on [what I learnt in the past 6 years](https://vjyq.github.io/en/about){:target="_blank"} - just my thoughts. It would be great if they are useful to you in some way - but everyone's different, I do not expect anything. 
+This is a trial. I’ve never written about such a topic in English before. I wish by using a language I am not familiar with (simple words only) I could make myself clearer. All I said here is based on [what I learnt in the past 6 years](https://gniquyij.github.io/en/about){:target="_blank"} - just my thoughts. It would be great if they are useful to you in some way - but everyone's different, I do not expect anything. 
 
 If any comments/questions/inputs, please do not hesitate to let me know. 
 
@@ -123,7 +123,7 @@ Thank you for reading.
 
 <br>
 
-<div><a href="https://vjyq.github.io/daily"><img src="https://github.com/vjyq/vjyq.github.io/blob/master/avatar.png?raw=true" style="float:right;width:85px;height:85px"/></a></div><div style="border-top:1px solid #e1e4e8;padding-top:16px"></div>
+<div><a href="https://gniquyij.github.io/daily"><img src="https://github.com/gniquyij/gniquyij.github.io/blob/master/avatar.png?raw=true" style="float:right;width:85px;height:85px"/></a></div><div style="border-top:1px solid #e1e4e8;padding-top:16px"></div>
 <div>© 2018-2020 by YUQING JI</div>
-<div style="padding-top:0.3em"><a href="https://vjyq.github.io/en/about">About</a> | <a href="https://vjyq.github.io/">Blog</a> | <a href="mailto:yuqing.ji@outlook.com">Email</a> | <a href="https://github.com/vjyq">Github</a> | <a href="https://vjyq.github.io/zh">中文</a></div>
+<div style="padding-top:0.3em"><a href="https://gniquyij.github.io/en/about">About</a> | <a href="https://gniquyij.github.io/">Blog</a> | <a href="mailto:yuqing.ji@outlook.com">Email</a> | <a href="https://github.com/gniquyij">Github</a> | <a href="https://gniquyij.github.io/zh">中文</a></div>
 
