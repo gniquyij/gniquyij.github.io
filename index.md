@@ -10,6 +10,7 @@
 </script>
 </head>
 
+- [gniquyij](https://line.me/S/sticker/13205806/?lang=en&ref=gnsh_stickerDetail) is on sale in LINE STORE
 - [Invisibility cloak](https://gniquyij.github.io/invCloak/)
 - [The 1st bootleg](en/2020/08/10/bootleg_1.md)
 - [QA Not-To-Do](en/2020/07/20/qa-not-to-do.md)
