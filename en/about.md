@@ -2,11 +2,7 @@
 
 Hi there. This is Ji Yu-Qing <a target="_blank" href="./../name.mp3">|dʒɪ ju tsɪŋ|</a> and welcome to my channel.
 
-I do not know what to say when people ask me to introduce myself cause I am not several words. But if you don't tag yourself, people will still tag you, even worse, in a way you don't want to see. So it may be better for me to do it.
-
 I was born and raised up in Shanghai, China. 
-
-A no barbie but chess/poker/pet/calligraphy/sketch/pipa childhood - thanks to my parents.
 
 Studied Applied Psychology in the university - an accident I would say but not that bad journey. 
 
