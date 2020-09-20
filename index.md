@@ -10,7 +10,7 @@
 </script>
 </head>
 
-- Dream with [rei](https://gniquyij.github.io/rei) 
+- Create with [rei](https://gniquyij.github.io/rei) 
 - [gniquyij](https://line.me/S/sticker/13205806/?lang=en&ref=gnsh_stickerDetail) is on sale in LINE STORE
 - [Invisibility cloak](https://gniquyij.github.io/invCloak/)
 - [The 1st bootleg](en/2020/08/10/bootleg_1.md)
