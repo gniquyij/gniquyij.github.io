@@ -10,7 +10,7 @@
 </script>
 </head>
 
-- [gniquyij2](https://line.me/S/sticker/18389164/?lang=en&ref=gnsh_stickerDetail) is on sale in LINE STORE
+- [gniquyij2](https://line.me/S/sticker/13367937/?lang=en&ref=gnsh_stickerDetail) is on sale in LINE STORE
 - Create with [rei](https://gniquyij.github.io/rei) 
 - [gniquyij](https://line.me/S/sticker/13205806/?lang=en&ref=gnsh_stickerDetail) is on sale in LINE STORE
 - [Invisibility cloak](https://gniquyij.github.io/invCloak/)
