@@ -10,6 +10,7 @@
 </script>
 </head>
 
+- 2020-11-07 [Read-later with send2kindle](https://gniquyij.github.io/page2pdf/examples/send2kindle/)
 - 2020-10-08 [gniquyij2](https://line.me/S/sticker/13367937/?lang=en&ref=gnsh_stickerDetail) is on sale in LINE STORE
 - 2020-09-20 Create with [rei](https://gniquyij.github.io/rei) 
 - 2020-09-16 [gniquyij](https://line.me/S/sticker/13205806/?lang=en&ref=gnsh_stickerDetail) is on sale in LINE STORE
