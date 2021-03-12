@@ -9,7 +9,7 @@
 </script>
 </head>
 
-- 2021-03-12 [minestack: minesweeper in 3D](https://gniquyij.github.io/minestack)
+- 2021-03-12 [Minesweeper in 3D](https://gniquyij.github.io/minestack)
 - 2020-12-08 [rei is available for macOS](https://github.com/gniquyij/rei/releases)
 - 2020-11-20 [send2kindle for Chrome](https://gniquyij.github.io/page2pdf/examples/send2kindle/chrome/)
 - 2020-11-07 [Read-later with send2kindle](https://gniquyij.github.io/page2pdf/examples/send2kindle/)
