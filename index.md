@@ -13,9 +13,9 @@
 - 2020-12-08 [rei is available for macOS](https://github.com/gniquyij/rei/releases)
 - 2020-11-20 [send2kindle for Chrome](https://gniquyij.github.io/page2pdf/examples/send2kindle/chrome/)
 - 2020-11-07 [Read-later with send2kindle](https://gniquyij.github.io/page2pdf/examples/send2kindle/)
-- 2020-10-08 [gniquyij2](https://line.me/S/sticker/13367937/?lang=en&ref=gnsh_stickerDetail) is on sale in LINE STORE
-- 2020-09-20 Create with [rei](https://gniquyij.github.io/rei) 
-- 2020-09-16 [gniquyij](https://line.me/S/sticker/13205806/?lang=en&ref=gnsh_stickerDetail) is on sale in LINE STORE
+- 2020-10-08 [gniquyij2 is on sale in LINE STORE](https://line.me/S/sticker/13367937/?lang=en&ref=gnsh_stickerDetail)
+- 2020-09-20 [Create with rei](https://gniquyij.github.io/rei) 
+- 2020-09-16 [gniquyij is on sale in LINE STORE](https://line.me/S/sticker/13205806/?lang=en&ref=gnsh_stickerDetail)
 - 2020-08-29 [Invisibility cloak](https://gniquyij.github.io/invCloak/)
 - 2020-08-10 [The 1st bootleg](en/2020/08/10/bootleg_1.md)
 - 2020-07-20 [QA Not-To-Do](en/2020/07/20/qa-not-to-do.md)
