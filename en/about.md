@@ -1,13 +1,14 @@
 <img src="./../avatar.png" style="width: 400px; height: 400px"/>
 
-Hi! This is Yuqing |ju tsɪŋ| and welcome to my channel.
+Welcome! This is Yuqing |ju tsɪŋ|.
 
-- I've been playing a QA/Devops role in a startup for the moment - the highlight of the work is my code does resolve real problems. 
-- Before this I tried to be a counselor/marketing researcher/data analyst/account manager/project manager -- more aware of what I am interested in, and how little I know.
-- Studied Applied Psychology in the university - an accident I would say but not that bad journey.
-- Born and raised up in Shanghai, China. 
+- I've been playing a QA/Devops role in a startup - the highlight is my code does resolve real problems. 
+- Before this I tried to be a counselor/marketing researcher/data analyst/account manager/project manager - aware of my interests, and how little I know.
+- Studied Applied Psychology in the university - learnt nothing. 
+- Born and raised up in Shanghai, China.
 
-Enjoy solving problems, especially the ones which I have never tried before.
+Enjoy solving problems, especially the ones never tried before.
+Enjoy making stuffs, though most of the time I am the only user. 
 
 Prefer micro than macro.
 
