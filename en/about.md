@@ -1,6 +1,6 @@
 <img src="./../avatar.png" style="width: 400px; height: 400px"/>
 
-Hi! This is Yuqing <a target="_blank" href="./../name.mp3">|ju tsɪŋ|</a> and welcome to my channel.
+Hi! This is Yuqing |ju tsɪŋ| and welcome to my channel.
 
 - I've been playing a QA/Devops role in a startup for the moment - the highlight of the work is my code does resolve real problems. 
 - Before this I tried to be a counselor/marketing researcher/data analyst/account manager/project manager -- more aware of what I am interested in, and how little I know.
