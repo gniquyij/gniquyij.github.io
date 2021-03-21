@@ -1,6 +1,6 @@
 <img src="./../avatar.png" style="width: 400px; height: 400px"/>
 
-Welcome! This is Yuqing |ju tsɪŋ|.
+Welcome! This is Yuqing (ju tsɪŋ).
 
 - I've been playing a QA/Devops role in a startup - the highlight is my code does resolve real problems. 
 - Before this I tried to be a counselor/marketing researcher/data analyst/account manager/project manager - aware of my interests, and how little I know.
@@ -8,6 +8,7 @@ Welcome! This is Yuqing |ju tsɪŋ|.
 - Born and raised up in Shanghai, China.
 
 Enjoy solving problems, especially the ones never tried before.
+
 Enjoy making stuffs, though most of the time I am the only user. 
 
 Prefer micro than macro.
