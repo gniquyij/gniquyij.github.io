@@ -9,7 +9,7 @@
 </script>
 </head>
 
-- 2021-04-28 [Introduction to MINESTACK](https://gniquyij.github.io/minestack/en/stories/bg)
+- 2021-04-28 [Introduction to MINESTACK](https://www.youtube.com/watch?v=cfZS67XCwYc)
 - 2021-03-12 [Minesweeper in 3D](https://gniquyij.github.io/minestack)
 - 2020-12-08 [rei is available for macOS](https://github.com/gniquyij/rei/releases)
 - 2020-11-20 [send2kindle for Chrome](https://gniquyij.github.io/page2pdf/examples/send2kindle/chrome/)
