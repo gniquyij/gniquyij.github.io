@@ -9,6 +9,7 @@
 </script>
 </head>
 
+- 2021-05-08 [Suburban street at night, 2021 Shanghai](https://www.youtube.com/watch?v=UX39Bv0fDW4)
 - 2021-04-28 [Introduction to MINESTACK](https://www.youtube.com/watch?v=cfZS67XCwYc)
 - 2021-03-12 [Minesweeper in 3D](https://gniquyij.github.io/minestack)
 - 2020-12-08 [rei is available for macOS](https://github.com/gniquyij/rei/releases)
