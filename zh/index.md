@@ -1,4 +1,5 @@
-- 2020-03-20 [3D扫雷](https://gniquyij.github.io/minestack/zh/)
+- 2021-05-12 [海盗日记](https://gniquyij.github.io/piratediary/)
+- 2021-03-20 [3D扫雷](https://gniquyij.github.io/minestack/zh/)
 - 2020-12-31 [一家店](https://mp.weixin.qq.com/s?__biz=MzU4NDgxODMwOA==&mid=2247483678&idx=1&sn=73723fa27f1bc2b46ab8145b54951673&chksm=fd954af5cae2c3e3c00918f8d6eebc5f4f97200fe9d3a69c05a0e8dff4dac6505b5b51296386&token=185143453&lang=zh_CN#rd)
 - 2020-11-25 [没有意义](https://mp.weixin.qq.com/s?__biz=MzU4NDgxODMwOA==&mid=2247483673&idx=1&sn=f43b7c61ffa7ad2fe36b1d7dc4dab068&chksm=fd954af2cae2c3e4736dafd6c6b01311641ad2b5bdd5006c1482befe12f558355e0eab3b3e9e&token=185143453&lang=zh_CN#rd)
 - 2020-11-24 [需要契机](https://mp.weixin.qq.com/s?__biz=MzU4NDgxODMwOA==&mid=2247483666&idx=1&sn=96e857a3ca07098000c42a798bd1ec26&chksm=fd954af9cae2c3ef966315a11ceeb96aa1bfda22e7e5d5b3b4ed3ff5133d4eca114822f4aa27&token=185143453&lang=zh_CN#rd)
