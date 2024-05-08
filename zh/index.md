@@ -1,3 +1,4 @@
+- 2024-05-03 [我的暴食](https://mp.weixin.qq.com/s/ymw42LLMa_ginBmibwxf3Q)
 - 2021-05-12 [海盗日记](https://gniquyij.github.io/piratediary/)
 - 2021-03-20 [3D扫雷](https://gniquyij.github.io/minestack/zh/)
 - 2020-12-31 [一家店](https://mp.weixin.qq.com/s?__biz=MzU4NDgxODMwOA==&mid=2247483678&idx=1&sn=73723fa27f1bc2b46ab8145b54951673&chksm=fd954af5cae2c3e3c00918f8d6eebc5f4f97200fe9d3a69c05a0e8dff4dac6505b5b51296386&token=185143453&lang=zh_CN#rd)
