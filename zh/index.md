@@ -1,3 +1,4 @@
+- 2024-09-24 [顶刊背后的故事](https://naoguo.github.io/beyond-top-journals/)
 - 2024-05-03 [我的暴食](https://mp.weixin.qq.com/s/ymw42LLMa_ginBmibwxf3Q)
 - 2021-05-12 [海盗日记](https://gniquyij.github.io/piratediary/)
 - 2021-03-20 [3D扫雷](https://gniquyij.github.io/minestack/zh/)
