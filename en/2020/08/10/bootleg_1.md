@@ -4,4 +4,4 @@ I like a song from 蓝心湄 called [走路的女孩](https://www.youtube.com/wa
  - Tool: Audacity
  - Effects: Bass and Treble, Echo, Fade out, WahWah
 
-<video controls="" preload="none" poster="https://gniquyij.github.io/daily/mario.png"><source src="https://gniquyij.github.io/daily/ZouLuDeNvHai.mov" type="video/mp4"></video>
+<video controls="" preload="none" poster="https://gniquyij.github.io/oneday/mario.png"><source src="https://gniquyij.github.io/oneday/ZouLuDeNvHai.mov" type="video/mp4"></video>
