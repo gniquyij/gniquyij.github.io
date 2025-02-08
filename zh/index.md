@@ -1,3 +1,4 @@
+- 2025-02-07 [Mac一键GPT](https://www.bilibili.com/video/BV1KSNMegEef)
 - 2024-09-24 [顶刊背后的故事](https://naoguo.github.io/beyond-top-journals/)
 - 2024-05-03 [我的暴食](https://mp.weixin.qq.com/s/ymw42LLMa_ginBmibwxf3Q)
 - 2021-05-12 [海盗日记](https://gniquyij.github.io/piratediary/)
