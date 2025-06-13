@@ -9,6 +9,7 @@
 </script>
 </head>
 
+- 2025-06-13 [Perform text-based audio editing in your DAW](https://gniquyij.github.io/audacity-whisper-labels/)
 - 2025-02-07 [One-Click GPT on Mac](https://www.youtube.com/watch?v=SaQZZWcIF9k)
 - 2021-05-08 [Suburban street at night, 2021 Shanghai](https://www.youtube.com/watch?v=UX39Bv0fDW4)
 - 2021-04-28 [Introduction to MINESTACK](https://www.youtube.com/watch?v=cfZS67XCwYc)
