@@ -1,0 +1,39 @@
+---
+layout: default
+title: Home
+lang_tab: en
+---
+<section class="home-section">
+  <nav class="year-filter" aria-label="Filter by category">
+    <a href="#tech">Tech</a>
+    <span>·</span>
+    <a href="#game">Game</a>
+    <span>·</span>
+    <a href="#design">Design</a>
+    <span>·</span>
+    <a href="#other">Other</a>
+    <span>·</span>
+    <a href="{{ '/zh/' | relative_url }}">中文</a>
+  </nav>
+  <div class="post-list">
+    {% assign english_tags = "Tech,Game,Design,Other" | split: "," %}
+    {% for tag in english_tags %}
+      <h2 class="year-heading" id="{{ tag | downcase }}">{{ tag }}</h2>
+      {% for entry in site.data.english_entries %}
+        {% assign entry_group = entry.tag %}
+        {% if entry.tag == "Writing" or entry.tag == "Math" or entry.tag == "Video" %}
+          {% assign entry_group = "Other" %}
+        {% endif %}
+        {% if entry_group == tag %}
+          <article>
+            <p class="meta"><span class="entry-tag">{{ entry.tag }}</span><span class="meta-sep">·</span>{{ entry.date }}</p>
+            <h3>
+              <a href="{{ entry.url | relative_url }}">{{ entry.title }}</a>{% if entry.external %} <span class="external-mark">↗</span>{% endif %}
+            </h3>
+            {% if entry.description %}<p>{{ entry.description }}</p>{% endif %}
+          </article>
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+  </div>
+</section>

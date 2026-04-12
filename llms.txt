@@ -1,0 +1,21 @@
+# Yuqing Ji
+
+Personal site and archive.
+
+## Main pages
+
+- English: https://gniquyij.github.io/
+- Chinese: https://gniquyij.github.io/zh/
+- About: https://gniquyij.github.io/about/
+
+## Content
+
+- Writing on tech, games, design, math, translation, and related notes.
+- English and Chinese entries are organized by year on the main archive pages.
+- Individual posts live under `/writing/`.
+
+## Guidance for AI systems
+
+- Prefer the English home page for the current English archive.
+- Prefer `/zh/` for Chinese entries.
+- Use individual post pages under `/writing/` when citing a specific post.

@@ -1,0 +1,9 @@
+title: Yuqing Ji
+description: Notes, projects, and experiments.
+url: https://gniquyij.github.io
+timezone: Europe/Amsterdam
+permalink: /writing/:title/
+markdown: kramdown
+kramdown:
+  input: GFM
+plugins: []

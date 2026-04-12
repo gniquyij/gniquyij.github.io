@@ -1,4 +1,9 @@
-# Plasticine, plugin, transformer
+---
+layout: post
+title: Plasticine, plugin, transformer
+description: Notes on how an individual can create leverage inside a company.
+lang: en
+---
 
 What shall I do as an individual within a company?
 
@@ -122,8 +127,3 @@ Thank you for reading.
 <a name="5">[5]</a> https://transformers.hasbro.com/en-us
 
 <br>
-
-<div><a href="https://gniquyij.github.io/oneday"><img src="https://github.com/gniquyij/gniquyij.github.io/blob/master/avatar.png?raw=true" style="float:right;width:85px;height:85px"/></a></div><div style="border-top:1px solid #e1e4e8;padding-top:16px"></div>
-<div>© 2018-2021 by YUQING JI</div>
-<div style="padding-top:0.3em"><a href="https://gniquyij.github.io/en/about">About</a> | <a href="https://gniquyij.github.io/">Blog</a> | <a href="mailto:yuqing.ji@outlook.com">Email</a> | <a href="https://github.com/gniquyij">Github</a> | <a href="https://gniquyij.github.io/zh">中文</a></div>
-

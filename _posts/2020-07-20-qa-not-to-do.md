@@ -1,4 +1,9 @@
-# QA Not-To-Do
+---
+layout: post
+title: QA Not-To-Do
+description: A list of QA habits worth avoiding.
+lang: en
+---
 
 Here are the things I’ve been trying to avoid as a Quality Assurance (hereinafter referred to as ‘QA’), in no particular order.
 
@@ -37,7 +42,3 @@ Here are the things I’ve been trying to avoid as a Quality Assurance (hereinaf
 - Think dependently. 
 
     - Multi inputs, multi outputs?
-
-<div><a href="https://gniquyij.github.io/oneday"><img src="https://github.com/gniquyij/gniquyij.github.io/blob/master/avatar.png?raw=true" style="float:right;width:85px;height:85px"/></a></div><div style="border-top:1px solid #e1e4e8;padding-top:16px"></div>
-<div>© 2018-2021 by YUQING JI</div>
-<div style="padding-top:0.3em"><a href="https://gniquyij.github.io/en/about">About</a> | <a href="https://gniquyij.github.io/">Blog</a> | <a href="mailto:yuqing.ji@outlook.com">Email</a> | <a href="https://github.com/gniquyij">Github</a> | <a href="https://gniquyij.github.io/zh">中文</a></div>

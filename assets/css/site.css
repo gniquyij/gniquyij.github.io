@@ -1,0 +1,400 @@
+:root {
+  --bg: #ffffff;
+  --text: #111111;
+  --muted: #666666;
+  --line: #e5e5e5;
+  --accent: #111827;
+  --space-1: 0.5rem;
+  --space-2: 0.75rem;
+  --space-3: 1rem;
+  --space-4: 1.5rem;
+  --space-5: 2.25rem;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 17px;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: Georgia, "Times New Roman", serif;
+  line-height: 1.78;
+}
+
+a {
+  color: inherit;
+  text-decoration-color: #9ca3af;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.12em;
+}
+
+a:hover {
+  text-decoration-color: #111111;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.page-shell {
+  width: min(100%, 72rem);
+  margin: 0 auto;
+  padding: 0 1.25rem var(--space-5);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.section-head,
+.about-wrap {
+  display: flex;
+  justify-content: space-between;
+  gap: var(--space-3);
+}
+
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  background: rgba(255, 255, 255, 0.96);
+  backdrop-filter: blur(6px);
+  padding-top: 0;
+}
+
+.site-masthead {
+  padding: var(--space-1) 0 var(--space-1);
+  text-align: center;
+  border-bottom: 1px solid var(--line);
+}
+
+.site-brand {
+  color: var(--text);
+  display: inline-block;
+  font-size: clamp(1.45rem, 2.2vw, 2rem);
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  text-decoration: none;
+}
+
+.post-list a,
+.post-list a,
+.site-footer a {
+  text-decoration: none;
+}
+
+.page-main {
+  flex: 1;
+  padding-top: var(--space-3);
+}
+
+.home-intro,
+.post-header {
+  padding: calc(var(--space-5) + var(--space-3)) 0 var(--space-3);
+}
+
+.home-intro h1,
+.post h1,
+.about-card h1 {
+  margin: 0;
+  font-size: clamp(2.35rem, 4.6vw, 4.25rem);
+  line-height: 1.04;
+  letter-spacing: -0.03em;
+  color: #111111;
+}
+
+.home-intro {
+  max-width: 43rem;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.home-intro p:last-child,
+.deck {
+  max-width: 36rem;
+  margin: var(--space-2) 0 0;
+  font-size: 1rem;
+  color: var(--muted);
+}
+
+.home-intro p:last-child {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.home-section,
+.about-card,
+.post {
+  padding-top: var(--space-5);
+}
+
+.home-link-row {
+  margin: var(--space-4) 0 0;
+  color: var(--muted);
+  font-size: 0.94rem;
+  text-align: center;
+}
+
+.home-link-row a {
+  text-decoration: none;
+}
+
+.section-head {
+  align-items: baseline;
+  margin-bottom: var(--space-2);
+}
+
+.section-head h2,
+.about-card h1 {
+  margin: 0;
+}
+
+.eyebrow,
+.meta,
+.section-head p,
+.site-footer,
+.footer-nav {
+  color: var(--muted);
+  font-size: 0.94rem;
+}
+
+.post-list article {
+  padding: var(--space-3) 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.post-list article:last-child {
+  border-bottom: 0;
+}
+
+.post-list h3 {
+  margin: var(--space-1) 0 var(--space-1);
+  font-size: 1.16rem;
+  line-height: 1.25;
+}
+
+.post-list p {
+  margin: 0;
+}
+
+.external-mark {
+  color: var(--muted);
+  font-size: 0.86em;
+}
+
+.entry-tag {
+  color: var(--muted);
+}
+
+.meta-sep {
+  margin: 0 0.35rem;
+  color: var(--muted);
+}
+
+.post {
+  max-width: 43rem;
+  margin: 0 auto;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
+.home-section {
+  max-width: 43rem;
+  margin: 0 auto;
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: var(--space-5);
+}
+
+.home-section .post-list h3,
+.home-section .post-list p,
+.home-section .post-list .meta {
+  text-align: center;
+}
+
+.list-card {
+  max-width: 43rem;
+  margin: 0 auto;
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  padding-top: var(--space-5);
+  padding-bottom: var(--space-5);
+}
+
+.post-list {
+  flex: 1;
+}
+
+.year-filter {
+  display: flex;
+  justify-content: center;
+  gap: var(--space-1);
+  margin-bottom: var(--space-4);
+  color: var(--muted);
+  font-size: 0.94rem;
+}
+
+.year-filter a {
+  text-decoration: none;
+}
+
+.year-filter a.active {
+  text-decoration: underline;
+  text-underline-offset: 0.12em;
+}
+
+.year-heading {
+  margin: var(--space-4) 0 var(--space-2);
+  color: var(--muted);
+  font-size: 0.94rem;
+  font-weight: 600;
+  text-align: center;
+  scroll-margin-top: 5rem;
+}
+
+.list-card .post-list h3,
+.list-card .post-list p,
+.list-card .post-list .meta {
+  text-align: center;
+}
+
+.post-header {
+  border-bottom: 1px solid var(--line);
+  text-align: center;
+  padding-top: 0;
+  padding-bottom: var(--space-4);
+}
+
+.post-header .eyebrow {
+  margin-bottom: var(--space-1);
+}
+
+.post-kicker {
+  letter-spacing: 0;
+}
+
+.post-header .deck {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.post-body {
+  padding-top: var(--space-4);
+  padding-bottom: 0;
+  font-size: 1.11rem;
+}
+
+.post-body > :first-child {
+  margin-top: 0;
+}
+
+.post-body p,
+.post-body ul,
+.post-body ol,
+.post-body blockquote {
+  max-width: none;
+}
+
+.post-body h2,
+.post-body h3 {
+  margin-top: var(--space-5);
+  line-height: 1.2;
+  color: #111111;
+  max-width: none;
+}
+
+.post-body h2 {
+  font-size: 1.6rem;
+}
+
+.post-body h3 {
+  font-size: 1.2rem;
+}
+
+.post-body blockquote {
+  margin-left: 0;
+  padding-left: var(--space-3);
+  border-left: 2px solid var(--line);
+  color: #303030;
+}
+
+.post-body pre,
+.post-body code {
+  font-family: "SFMono-Regular", Menlo, Consolas, monospace;
+}
+
+.post-body pre {
+  overflow: auto;
+  padding: var(--space-3);
+  background: #101418;
+  color: #f3f4f6;
+}
+
+.post-body table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.96rem;
+}
+
+.post-body th,
+.post-body td {
+  padding: var(--space-2);
+  border: 1px solid var(--line);
+}
+
+.about-wrap {
+  align-items: center;
+  gap: var(--space-4);
+  max-width: 48rem;
+  margin: 0 auto;
+}
+
+.about-photo {
+  width: 10rem;
+  flex: 0 0 10rem;
+}
+
+.about-photo img {
+  width: 100%;
+}
+
+.site-footer {
+  margin-top: auto;
+  padding-top: var(--space-3);
+  padding-bottom: var(--space-3);
+  border-top: 1px solid var(--line);
+  text-align: center;
+}
+
+.site-footer p {
+  margin: 0;
+  font-size: 0.94rem;
+  line-height: 1.35;
+}
+
+@media (max-width: 720px) {
+  .site-header,
+  .section-head,
+  .about-wrap {
+    display: block;
+  }
+
+  .about-photo {
+    width: 10rem;
+    margin-bottom: var(--space-3);
+  }
+
+  .year-filter {
+    flex-wrap: wrap;
+  }
+
+}
