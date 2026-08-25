@@ -5,35 +5,35 @@ lang_tab: en
 ---
 <section class="home-section">
   <nav class="year-filter" aria-label="Filter by category">
-    <a href="#tech">Tech</a>
+    <button class="filter-button is-active" type="button" data-filter="all" aria-pressed="true">All</button>
     <span>·</span>
-    <a href="#game">Game</a>
+    <button class="filter-button" type="button" data-filter="tech" aria-pressed="false">Tech</button>
     <span>·</span>
-    <a href="#design">Design</a>
+    <button class="filter-button" type="button" data-filter="game" aria-pressed="false">Game</button>
     <span>·</span>
-    <a href="#other">Other</a>
+    <button class="filter-button" type="button" data-filter="design" aria-pressed="false">Design</button>
+    <span>·</span>
+    <button class="filter-button" type="button" data-filter="other" aria-pressed="false">Other</button>
     <span>·</span>
     <a href="{{ '/zh/' | relative_url }}">中文</a>
   </nav>
   <div class="post-list">
-    {% assign english_tags = "Tech,Game,Design,Other" | split: "," %}
-    {% for tag in english_tags %}
-      <h2 class="year-heading" id="{{ tag | downcase }}">{{ tag }}</h2>
-      {% for entry in site.data.english_entries %}
-        {% assign entry_group = entry.tag %}
-        {% if entry.tag == "Writing" or entry.tag == "Math" or entry.tag == "Video" %}
-          {% assign entry_group = "Other" %}
+    {% assign sorted_entries = site.data.english_entries | sort: "date" | reverse %}
+    {% for entry in sorted_entries %}
+      {% assign entry_group = entry.tag %}
+      {% if entry.tag == "Writing" or entry.tag == "Math" or entry.tag == "Video" or entry.tag == "Life" %}
+        {% assign entry_group = "Other" %}
+      {% endif %}
+      <article data-category="{{ entry_group | downcase }}">
+        <p class="meta"><time class="entry-date" datetime="{{ entry.date }}">{{ entry.date }}</time><span class="meta-sep">·</span><span class="entry-tag">{{ entry.tag }}</span></p>
+        <h3>
+          <a href="{{ entry.url | relative_url }}">{{ entry.title }}</a>{% if entry.external %} <span class="external-mark">↗</span>{% endif %}
+        </h3>
+        {% if entry.description %}<p class="entry-description">{{ entry.description }}</p>{% endif %}
+        {% if entry.languages %}
+          <p class="entry-languages"><span>Also:</span>{% for language in entry.languages %} <a href="{{ language.url }}" hreflang="{{ language.code }}">{{ language.label }}</a>{% unless forloop.last %}<span class="meta-sep">·</span>{% endunless %}{% endfor %}</p>
         {% endif %}
-        {% if entry_group == tag %}
-          <article>
-            <p class="meta"><span class="entry-tag">{{ entry.tag }}</span><span class="meta-sep">·</span>{{ entry.date }}</p>
-            <h3>
-              <a href="{{ entry.url | relative_url }}">{{ entry.title }}</a>{% if entry.external %} <span class="external-mark">↗</span>{% endif %}
-            </h3>
-            {% if entry.description %}<p>{{ entry.description }}</p>{% endif %}
-          </article>
-        {% endif %}
-      {% endfor %}
+      </article>
     {% endfor %}
   </div>
 </section>

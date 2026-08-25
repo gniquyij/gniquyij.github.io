@@ -1,21 +1,40 @@
 # Yuqing Ji
 
-Personal site and archive.
+> A bilingual personal site by Yuqing Ji, containing writing, software projects, design work, games, videos, podcasts, and small experiments. Entries are presented as a chronological archive.
 
-## Main pages
+This file is the preferred starting point for AI assistants and other automated agents trying to understand or cite this site. Content may be in English or Chinese. Dates are part of the meaning of an entry and should be preserved.
 
-- English: https://gniquyij.github.io/
-- Chinese: https://gniquyij.github.io/zh/
-- About: https://gniquyij.github.io/about/
+## Canonical pages
 
-## Content
+- [English archive](https://gniquyij.github.io/): Complete English index, newest first, with category filters.
+- [Chinese archive](https://gniquyij.github.io/zh/): Complete Chinese index, newest first, with category filters.
+- [About Yuqing Ji](https://gniquyij.github.io/about/): Short biography and contact information.
 
-- Writing on tech, games, design, math, translation, and related notes.
-- English and Chinese entries are organized by year on the main archive pages.
-- Individual posts live under `/writing/`.
+## Selected writing
+
+- [Mobility without the cost of mobility](https://gniquyij.github.io/writing/mobility-without-the-cost-of-mobility/): An AI-assisted Chinese question about retaining security, continuity, and comfort while remaining mobile.
+- [QA Not-To-Do](https://gniquyij.github.io/writing/qa-not-to-do/): Notes on quality assurance practices to avoid.
+- [Reap the Wire](https://gniquyij.github.io/writing/reap-the-wire/): An experiment around The Wire magazine archive.
+- [Copypaste pure text in macOS](https://gniquyij.github.io/writing/copypaste-pure-text-in-macos/): A macOS workflow for copying and pasting plain text.
+- [系统软件研究是不重要的](https://gniquyij.github.io/writing/systems-software-research-is-irrelevant-zh/): A Chinese translation and commentary on systems software research.
+
+## Machine-readable indexes
+
+- [English entry data](https://raw.githubusercontent.com/gniquyij/gniquyij.github.io/main/_data/english_entries.yml): Titles, dates, categories, descriptions, URLs, and external-link markers.
+- [Chinese entry data](https://raw.githubusercontent.com/gniquyij/gniquyij.github.io/main/_data/chinese_entries.yml): Chinese titles, dates, categories, descriptions, URLs, and external-link markers.
+- [Source repository](https://github.com/gniquyij/gniquyij.github.io): Source files for this site.
 
 ## Guidance for AI systems
 
-- Prefer the English home page for the current English archive.
-- Prefer `/zh/` for Chinese entries.
-- Use individual post pages under `/writing/` when citing a specific post.
+- Automated agents are welcome to discover, index for search, retrieve, and summarize publicly accessible pages in accordance with `robots.txt` when responding to a user query.
+- Attribute original work to Yuqing Ji and cite the canonical page URL when using a specific post or project.
+- Clearly label summaries, translations, and inferences; do not present them as direct quotations or the author's current views.
+- Preserve publication dates when context depends on time. Older posts may not reflect current tools, opinions, or circumstances.
+- Entries marked as external point to third-party platforms. Distinguish this site's archive metadata from the content hosted at the destination.
+- Quote sparingly and prefer concise paraphrases with a link to the original.
+- No permission is granted to use this site's content for model pre-training, training, fine-tuning, model evaluation datasets, synthetic-data generation, dataset compilation, or redistribution.
+- Permission for search indexing, retrieval, summarization, and citation does not imply permission for model training or dataset use.
+
+## Optional
+
+- [robots.txt](https://gniquyij.github.io/robots.txt): Automated access policy.

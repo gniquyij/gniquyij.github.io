@@ -1,69 +1,95 @@
 - date: 2026-08-25
   title: Dutch Grocery Deal Monitor
   url: https://gniquyij.github.io/dutch-grocery-deal-monitor/
-  tag: Life
+  tag: Tech
   external: true
-  description: Personalised Dutch supermarket deal filtering and cross-store comparison.
+  description: Filters Dutch supermarket deals using user rules and compares prices across stores.
+  languages:
+    - label: 简体中文
+      code: zh-CN
+      url: https://gniquyij.github.io/dutch-grocery-deal-monitor/zh-CN/
+    - label: Nederlands
+      code: nl
+      url: https://gniquyij.github.io/dutch-grocery-deal-monitor/nl/
 - date: 2025-06-13
   title: Perform text-based audio editing in your DAW
   url: https://gniquyij.github.io/audacity-whisper-labels/
   tag: Tech
   external: true
+  description: Converts Whisper transcripts into Audacity labels for text-based audio editing.
 - date: 2025-02-07
   title: One-Click GPT on Mac
   url: https://www.youtube.com/watch?v=SaQZZWcIF9k
   tag: Tech
   external: true
+  description: Opens GPT on macOS with one click.
 - date: 2021-05-08
   title: Suburban street at night, 2021 Shanghai
   url: https://www.youtube.com/watch?v=UX39Bv0fDW4
   tag: Video
   external: true
+  description: A suburban street in Shanghai at night, filmed in 2021.
 - date: 2021-04-28
   title: Introduction to MINESTACK
   url: https://www.youtube.com/watch?v=cfZS67XCwYc
   tag: Game
   external: true
+  description: An introduction to MINESTACK, a three-dimensional Minesweeper game.
 - date: 2021-03-12
   title: Minesweeper in 3D
   url: https://gniquyij.github.io/minestack/
   tag: Game
   external: true
+  description: Minesweeper in three dimensions, playable in a web browser.
+  languages:
+    - label: 中文
+      code: zh
+      url: https://gniquyij.github.io/minestack/zh/
+    - label: 日本語
+      code: ja
+      url: https://gniquyij.github.io/minestack/jp/
 - date: 2020-12-08
   title: rei is available for macOS
   url: https://github.com/gniquyij/rei/releases
   tag: Design
   external: true
+  description: The macOS release of rei.
 - date: 2020-11-20
   title: send2kindle for Chrome
   url: https://gniquyij.github.io/page2pdf/examples/send2kindle/chrome/
   tag: Tech
   external: true
+  description: Converts web pages for reading on Kindle in Chrome.
 - date: 2020-11-07
   title: Read-later with send2kindle
   url: https://gniquyij.github.io/page2pdf/examples/send2kindle/
   tag: Tech
   external: true
+  description: Save web pages for later reading by sending them to Kindle.
 - date: 2020-10-08
   title: gniquyij2 is on sale in LINE STORE
   url: https://line.me/S/sticker/13367937/?lang=en&ref=gnsh_stickerDetail
   tag: Design
   external: true
+  description: The second gniquyij sticker collection for LINE.
 - date: 2020-09-20
   title: Create with rei
   url: https://gniquyij.github.io/rei
   tag: Design
   external: true
+  description: A tool for making and arranging visual compositions.
 - date: 2020-09-16
   title: gniquyij is on sale in LINE STORE
   url: https://line.me/S/sticker/13205806/?lang=en&ref=gnsh_stickerDetail
   tag: Design
   external: true
+  description: The first gniquyij sticker collection for LINE.
 - date: 2020-08-29
   title: Invisibility cloak
   url: https://gniquyij.github.io/invCloak/
   tag: Tech
   external: true
+  description: Embeds a recoverable watermark in the frequency domain of an image.
 - date: 2020-08-10
   title: The 1st bootleg
   url: /writing/the-1st-bootleg/
@@ -89,11 +115,13 @@
   url: https://gniquyij.github.io/brainbreak/
   tag: Tech
   external: true
+  description: A command-line timer that issues a one-minute break reminder.
 - date: 2020-05-24
   title: Hog the wall
   url: https://gniquyij.github.io/wallhog/
   tag: Tech
   external: true
+  description: A command-line shortcut for opening frequently used web pages.
 - date: 2020-05-21
   title: Good day
   url: https://gniquyij.github.io/gooday/
@@ -104,6 +132,7 @@
   url: https://gniquyij.github.io/etontig/
   tag: Tech
   external: true
+  description: Stores and retrieves notes in Git.
 - date: 2020-03-29
   title: Reap the Wire
   url: /writing/reap-the-wire/
@@ -119,11 +148,13 @@
   url: https://gniquyij.github.io/satsie/
   tag: Tech
   external: true
+  description: Checks updates across multiple subscription sources.
 - date: 2020-03-08
   title: gist.github.com
   url: https://gniquyij.github.io/wcrXic/gist-github-com/gist-github-com
   tag: Tech
   external: true
+  description: A browser interface for viewing and navigating GitHub Gists.
 - date: 2020-02-15
   title: Daily wares
   url: /writing/daily-wares/
@@ -134,6 +165,7 @@
   url: https://gniquyij.github.io/bclock/
   tag: Tech
   external: true
+  description: Scripts that play an hourly chime using the sound of a family clock.
 - date: 2020-01-20
   title: Tricks for your Github Pages
   url: /writing/tricks-for-gh-pages/

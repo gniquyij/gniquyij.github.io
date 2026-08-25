@@ -9,6 +9,7 @@ layout: default
       {% else %}
         {{ page.date | date: "%B %d, %Y" }}
       {% endif %}
+      {% if page.type %}<span class="meta-sep">·</span>{{ page.type }}{% endif %}
     </p>
     <h1>{{ page.title }}</h1>
     {% if page.description %}
@@ -16,6 +17,9 @@ layout: default
     {% endif %}
   </header>
   <div class="post-body">
+    {% if page.ai_assisted %}
+      <aside class="ai-disclosure">{{ page.ai_disclosure | default: "资料由 AI 协助检索和初步归纳。" }}{% if page.language_note %}{{ page.language_note }}{% endif %}</aside>
+    {% endif %}
     {{ content }}
   </div>
 </article>

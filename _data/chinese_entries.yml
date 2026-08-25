@@ -1,29 +1,47 @@
 - date: 2026-08-25
   title: 荷兰超市优惠监测
   url: https://gniquyij.github.io/dutch-grocery-deal-monitor/zh-CN/
-  tag: 生活
+  tag: 技术
   external: true
   description: 按个人规则筛选荷兰超市优惠，并跨店比较关注商品价格。
+  languages:
+    - label: English
+      code: en
+      url: https://gniquyij.github.io/dutch-grocery-deal-monitor/
+    - label: Nederlands
+      code: nl
+      url: https://gniquyij.github.io/dutch-grocery-deal-monitor/nl/
+- date: 2026-08-21
+  title: Mobility without the cost of mobility
+  url: /writing/mobility-without-the-cost-of-mobility/
+  tag: 生活
+  type: Question
+  description: 如何在追求 mobility 和 exitability 的同时，不把当下长期视为过渡期？
 - date: 2025-06-13
   title: 如何在熟悉的DAW里实现基于文本的音频编辑
   url: https://www.bilibili.com/video/BV1XLMBzNED2
   tag: 技术
   external: true
+  description: 在熟悉的 DAW 中使用基于文本的音频编辑。
 - date: 2025-02-07
   title: Mac一键GPT
   url: https://www.bilibili.com/video/BV1KSNMegEef
   tag: 技术
   external: true
+  description: 在 Mac 上用快捷操作调用 GPT。
 - date: 2024-09-24
   title: 顶刊背后的故事
   url: https://naoguo.github.io/beyond-top-journals/
   tag: 播客
   external: true
+  description: 分享心理学相关领域顶刊背后的故事。
 - date: 2024-05-03
   title: 我的暴食
   url: https://mp.weixin.qq.com/s/ymw42LLMa_ginBmibwxf3Q
   tag: 写作
   external: true
+  description: >-
+    个人情况小结。有类似情况的朋友觉得失控及时看医生，心理医生精神科医生躯体症状按需找医生。如果这个帖子能助你自助，我的荣幸也替你高兴。年初经历了波暴食症状，比如“健康”早午饭的情况下晚上刚开始决定少吃不吃，晚十一点不饿但馋到发狂一两小时内连吃十个冻三明治，馅是厚涂花生酱夹芝士，吃到第三四个已经饱了但没法控制自己直到吃空冰箱，第二天人肿肿到下肢水肿按下有坑。
 - date: 2021-05-12
   title: 海盗日记
   url: https://gniquyij.github.io/piratediary/
@@ -34,6 +52,14 @@
   url: https://gniquyij.github.io/minestack/zh/
   tag: 游戏
   external: true
+  description: 把经典扫雷放进三维空间。
+  languages:
+    - label: English
+      code: en
+      url: https://gniquyij.github.io/minestack/
+    - label: 日本語
+      code: ja
+      url: https://gniquyij.github.io/minestack/jp/
 - date: 2020-12-31
   title: 一家店
   url: https://mp.weixin.qq.com/s?__biz=MzU4NDgxODMwOA==&mid=2247483678&idx=1&sn=73723fa27f1bc2b46ab8145b54951673&chksm=fd954af5cae2c3e3c00918f8d6eebc5f4f97200fe9d3a69c05a0e8dff4dac6505b5b51296386&token=185143453&lang=zh_CN#rd
@@ -44,41 +70,51 @@
   url: https://mp.weixin.qq.com/s?__biz=MzU4NDgxODMwOA==&mid=2247483673&idx=1&sn=f43b7c61ffa7ad2fe36b1d7dc4dab068&chksm=fd954af2cae2c3e4736dafd6c6b01311641ad2b5bdd5006c1482befe12f558355e0eab3b3e9e&token=185143453&lang=zh_CN#rd
   tag: 写作
   external: true
+  description: >-
+    今早往昨晚的牛腩里下了点白萝卜和面条，用老抽上了个色，最后撒上黑胡椒。不管是闻起来还是吃上去，是记忆里康帅傅黑椒/红烧牛肉面的味道。一直以来觉得方便面的诱人是现实中不存在的（为了“更好吃”会大改成分比例），是我阴谋论了。
 - date: 2020-11-24
   title: 需要契机
   url: https://mp.weixin.qq.com/s?__biz=MzU4NDgxODMwOA==&mid=2247483666&idx=1&sn=96e857a3ca07098000c42a798bd1ec26&chksm=fd954af9cae2c3ef966315a11ceeb96aa1bfda22e7e5d5b3b4ed3ff5133d4eca114822f4aa27&token=185143453&lang=zh_CN#rd
   tag: 写作
   external: true
+  description: >-
+    两个钟头前没能在家里翻出黄酒老姜桂皮茴香，想到“反正是新手烧坏了也无所谓”，就开了瓶餐酒舀了勺肉桂切了丢小葱，把牛腩扔进了锅。
 - date: 2020-09-09
   title: 季大清5上架微信表情商店
   url: https://sticker.weixin.qq.com/cgi-bin/mmemoticon-bin/emoticonview?oper=single&t=shop/detail&productid=aL2PCfwK/89qO7sF6/+I+UDhfwEjhec2ZNvdnLLJRd/OdNMh6xnQ1z5Rivoa/sn7bB/6fXTof73FG1zodTqvIKQD95Ggf8Rla3omqju1yuyA=
   tag: 设计
   external: true
+  description: 季大清第五套微信表情。
 - date: 2020-08-24
   title: 大清小卖部开张
   url: https://shop344285165.taobao.com/
   tag: 设计
   external: true
+  description: 季大清相关商品的小店。
 - date: 2020-08-14
   title: 季大清4上架微信表情商店
   url: https://sticker.weixin.qq.com/cgi-bin/mmemoticon-bin/emoticonview?oper=single&t=shop/detail&productid=aL2PCfwK/89qO7sF6/+I+UDhfwEjhec2ZNvdnLLJRd/PX2LtvCdXZBu/NU1cPT0Rgv6308HpqldOTbWIICY6xdpdn5CcaN1nwezkW5tlaAiE=
   tag: 设计
   external: true
+  description: 季大清第四套微信表情。
 - date: 2020-08-06
   title: 季大清3上架微信表情商店
   url: https://sticker.weixin.qq.com/cgi-bin/mmemoticon-bin/emoticonview?oper=single&t=shop/detail&productid=aL2PCfwK/89qO7sF6/+I+UDhfwEjhec2ZNvdnLLJRd/NF9BOEWXj6sfg+j8bXZRmXSvC36K7iKRJ5RgL46lpTB4jJSIw6MJo1Ni8QAYIqlrw=
   tag: 设计
   external: true
+  description: 季大清第三套微信表情。
 - date: 2020-07-24
   title: 季大清2上架微信表情商店
   url: https://sticker.weixin.qq.com/cgi-bin/mmemoticon-bin/emoticonview?oper=single&t=shop/detail&productid=aL2PCfwK/89qO7sF6/+I+UDhfwEjhec2ZNvdnLLJRd/P5t1FSuj3nXeDug+3JVKubJovU5YiLcpmJlfnLtHt+EKBwCSJNcF+lFNPporb3kug=
   tag: 设计
   external: true
+  description: 季大清第二套微信表情。
 - date: 2020-07-06
   title: 季大清上架微信表情商店
   url: https://sticker.weixin.qq.com/cgi-bin/mmemoticon-bin/emoticonview?oper=single&t=shop/detail&productid=aL2PCfwK/89qO7sF6/+I+UDhfwEjhec2ZNvdnLLJRd/O/7/rvI2RmK6tbBBlfHMhij4gmBo98iteAEX0zCHsvjfSmnSYe2VPmh+T3hM8cWr8=
   tag: 设计
   external: true
+  description: 季大清第一套微信表情。
 - date: 2020-03-22
   title: 系统软件研究是不重要的
   url: /writing/systems-software-research-is-irrelevant-zh/
