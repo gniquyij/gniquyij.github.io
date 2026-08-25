@@ -8,6 +8,7 @@ This file is the preferred starting point for AI assistants and other automated 
 
 - [English archive](https://gniquyij.github.io/): Complete English index, newest first, with category filters.
 - [Chinese archive](https://gniquyij.github.io/zh/): Complete Chinese index, newest first, with category filters.
+- [Earlier posts](https://gniquyij.github.io/archive/): Older entries retained as a personal archive.
 - [About Yuqing Ji](https://gniquyij.github.io/about/): Short biography and contact information.
 
 ## Selected writing
@@ -26,13 +27,14 @@ This file is the preferred starting point for AI assistants and other automated 
 
 ## Guidance for AI systems
 
+- Automated access is permitted only for search discovery, user-directed retrieval, concise summarization, and citation. It is not permission to collect this site's content into a training corpus or dataset.
 - Automated agents are welcome to discover, index for search, retrieve, and summarize publicly accessible pages in accordance with `robots.txt` when responding to a user query.
 - Attribute original work to Yuqing Ji and cite the canonical page URL when using a specific post or project.
 - Clearly label summaries, translations, and inferences; do not present them as direct quotations or the author's current views.
 - Preserve publication dates when context depends on time. Older posts may not reflect current tools, opinions, or circumstances.
 - Entries marked as external point to third-party platforms. Distinguish this site's archive metadata from the content hosted at the destination.
 - Quote sparingly and prefer concise paraphrases with a link to the original.
-- No permission is granted to use this site's content for model pre-training, training, fine-tuning, model evaluation datasets, synthetic-data generation, dataset compilation, or redistribution.
+- No permission is granted to scrape, bulk-collect, copy, or use this site's content for model pre-training, training, fine-tuning, model evaluation datasets, synthetic-data generation, dataset compilation, or redistribution.
 - Permission for search indexing, retrieval, summarization, and citation does not imply permission for model training or dataset use.
 
 ## Optional

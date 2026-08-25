@@ -1,0 +1,8 @@
+{% assign entry = include.entry %}
+<article>
+  <p class="meta"><time class="entry-date" datetime="{{ entry.date }}">{{ entry.date }}</time><span class="meta-sep">·</span><span class="entry-tag">{{ entry.tag }}</span></p>
+  <h3>
+    <a href="{{ entry.url | relative_url }}">{{ entry.title }}</a>{% if entry.external %} <span class="external-mark">↗</span>{% endif %}
+  </h3>
+  {% if entry.description %}<p class="entry-description">{{ entry.description }}</p>{% endif %}
+</article>

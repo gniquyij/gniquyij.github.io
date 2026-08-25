@@ -99,11 +99,13 @@
   title: QA Not-To-Do
   url: /writing/qa-not-to-do/
   tag: Tech
+  archived: true
   description: Here are the things I’ve been trying to avoid as a Quality Assurance...
 - date: 2020-07-09
   title: Plasticine, plugin, transformer
   url: /writing/plasticine-plugin-transformer/
   tag: Writing
+  archived: true
   description: What shall I do as an individual within a company?...
 - date: 2020-05-31
   title: Copypaste pure text in macOS
@@ -132,17 +134,20 @@
   url: https://gniquyij.github.io/etontig/
   tag: Tech
   external: true
+  archived: true
   description: Stores and retrieves notes in Git.
 - date: 2020-03-29
   title: Reap the Wire
   url: /writing/reap-the-wire/
   tag: Tech
+  archived: true
   description: thewiremagazine said they would open the Wire’s complete archive of back issues...
 - date: 2020-03-29
-  title: Dark side of macOS
+  title: Querying Safari and Notes data on macOS
   url: https://gniquyij.github.io/tuqiu/
   tag: Tech
   external: true
+  description: Queries Safari history and Apple Notes data from local SQLite databases on macOS.
 - date: 2020-03-22
   title: Subscribe everything with one tool
   url: https://gniquyij.github.io/satsie/
@@ -170,9 +175,11 @@
   title: Tricks for your Github Pages
   url: /writing/tricks-for-gh-pages/
   tag: Tech
+  archived: true
   description: This blog is based on Github Pages. During use, the following tricks...
 - date: 2018-08-06
   title: 220 and 284
   url: /writing/220-and-284/
   tag: Math
+  archived: true
   description: 220 and 284 is called amicable because the sum of the proper divisors...

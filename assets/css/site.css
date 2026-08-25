@@ -272,6 +272,37 @@ img {
   flex: 1;
 }
 
+.archive-header {
+  max-width: 38rem;
+  margin: 0 auto var(--space-5);
+  text-align: center;
+}
+
+.archive-header h1 {
+  margin: 0 0 var(--space-2);
+  font-size: 1.75rem;
+}
+
+.archive-header p {
+  margin: 0.25rem 0 0;
+  color: var(--muted);
+  font-size: 0.94rem;
+  line-height: 1.55;
+}
+
+.archive-section + .archive-section {
+  margin-top: var(--space-5);
+}
+
+.archive-section > h2 {
+  width: min(100%, 40.75rem);
+  margin: 0 auto var(--space-2);
+  color: var(--muted);
+  font-size: 0.94rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
 .year-filter {
   display: flex;
   justify-content: center;

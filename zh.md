@@ -24,6 +24,7 @@ lang_tab: zh
   <div class="post-list">
     {% assign sorted_entries = site.data.chinese_entries | sort: "date" | reverse %}
     {% for entry in sorted_entries %}
+      {% unless entry.archived %}
       {% assign entry_group = entry.tag %}
       {% if entry.tag == "游戏" or entry.tag == "翻译" or entry.tag == "生活" %}
         {% assign entry_group = "其他" %}
@@ -38,6 +39,7 @@ lang_tab: zh
           <p class="entry-languages"><span>其他语言：</span>{% for language in entry.languages %}<a href="{{ language.url }}" hreflang="{{ language.code }}">{{ language.label }}</a>{% unless forloop.last %}<span class="meta-sep">·</span>{% endunless %}{% endfor %}</p>
         {% endif %}
       </article>
+      {% endunless %}
     {% endfor %}
   </div>
 </section>

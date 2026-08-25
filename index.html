@@ -20,6 +20,7 @@ lang_tab: en
   <div class="post-list">
     {% assign sorted_entries = site.data.english_entries | sort: "date" | reverse %}
     {% for entry in sorted_entries %}
+      {% unless entry.archived %}
       {% assign entry_group = entry.tag %}
       {% if entry.tag == "Writing" or entry.tag == "Math" or entry.tag == "Video" or entry.tag == "Life" %}
         {% assign entry_group = "Other" %}
@@ -34,6 +35,7 @@ lang_tab: en
           <p class="entry-languages"><span>Also:</span>{% for language in entry.languages %} <a href="{{ language.url }}" hreflang="{{ language.code }}">{{ language.label }}</a>{% unless forloop.last %}<span class="meta-sep">·</span>{% endunless %}{% endfor %}</p>
         {% endif %}
       </article>
+      {% endunless %}
     {% endfor %}
   </div>
 </section>
