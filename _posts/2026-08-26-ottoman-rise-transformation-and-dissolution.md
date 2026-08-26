@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 奥斯曼为什么崛起、兴盛时发展了什么、为什么会衰退？
+title: 奥斯曼会为什么崛起、兴盛时发展了什么、为什么会衰退？
 date: 2026-08-26
 lang: zh
 type: Question
