@@ -15,8 +15,9 @@ ai_disclosure: 资料由 AI 协助检索、核查和整理。
 language_note: 研究术语和部分关键词保留英文。
 ---
 
-1. 怎么保护 attention，让自己在需要工作、学习、阅读时能迅速进入并维持高质量状态。
-2. attention 明显下降后，怎么最快恢复。
+**怎么保护 attention，让自己在需要工作、学习、阅读时能迅速进入并维持高质量状态？**
+
+**attention 明显下降后，怎么最快恢复？**
 
 现有研究对第一个问题的答案更成熟；第二个问题没有公认的 optimal protocol。
 
@@ -28,17 +29,19 @@ language_note: 研究术语和部分关键词保留英文。
 
 已知结论：
 
-1. attention 会随 time-on-task 下降，但不适合把这种下降简单理解成一块有固定容量、消耗速度和恢复速度的“电池”。
+### 1. attention 会随 time-on-task 下降
+
+不适合把这种下降简单理解成一块有固定容量、消耗速度和恢复速度的“电池”。
 
 Practical inference：与其追求持续维持“100% attention”，更合理的是减少不必要的 degradation，把高质量 attention 留给重要任务。
 
-2. task-switching cost。
+### 2. task-switching cost
 
 Monsell 2003 在 Trends in Cognitive Sciences 发表的 review 汇总了 task-switching experiments。典型实验让参与者根据 cue 在两个简单任务之间切换，例如一会儿判断数字奇偶，一会儿判断大小，然后比较 repeat trial 和 switch trial。结果显示，switch trial 通常反应更慢、错误更多；即使参与者提前知道下一项任务是什么并有时间准备，switch cost 会下降，但不能完全消失。<a id="cite-monsell-2003"></a>[[Monsell, 2003]](#ref-monsell-2003)
 
 Hazeltine 2024 关于 task-switching methodology 的综述指出，不同 experimental paradigm 对 task switch 的定义和操作并不一致，观察到的 switch cost 也可能同时涉及 task representation、memory 和 cognitive control 等多个过程。也就是说，switch cost 是一个稳定、可重复观察到的现象，但其背后并非单一机制。无论具体机制如何，在需要持续高认知投入时，减少不必要的 task switching 通常有助于避免额外的 performance cost。<a id="cite-hazeltine-2024"></a>[[Hazeltine, 2024]](#ref-hazeltine-2024)
 
-3. attention 并不完全由意志控制。
+### 3. attention 并不完全由意志控制
 
 Theeuwes 2025 在 Annual Review of Psychology 总结了 attentional-capture research。典型方法是让参与者寻找一个目标，同时实验者加入与任务无关但视觉上显著的 distractor，再看 distractor 是否获得 attentional priority 或拖慢目标判断。该综述提出一个 tripartite framework，将 attentional control 概括为三类因素的相互作用：<a id="cite-theeuwes-2025"></a>[[Theeuwes, 2025]](#ref-theeuwes-2025)
 
@@ -50,7 +53,7 @@ selection history：过去的选择和学习历史。
 
 同样的逻辑也适用于时间安排：attention 不仅会被外界刺激打断，也会消耗在任务之间的切换和重新进入上。因此，碎片时间不能简单折算成同等时长的高质量工作时间。高认知任务往往需要重新建立 task set、恢复 context，并重新定位当前 goal；如果几分钟后又必须退出，还会产生新一轮切换成本。对于需要大量 context reconstruction 的任务，连续时间通常更有利。至于碎片时间是否更适合 switching cost 较低的任务或用于恢复，则属于 practical inference，并非现有 task-switching experiments 直接证明的结论。
 
-4. 人可能对瞬时 attentional state 有一定 metacognitive access。
+### 4. 人可能对瞬时 attentional state 有一定 metacognitive access
 
 Patel et al. 2024 做了 5 个 vigilance experiments，研究参与者能否根据自己的 attention state 调整任务节奏。部分实验允许参与者自己决定什么时候休息，再和接受相同休息安排的 control 比较；另外一些实验让参与者自己决定什么时候开始下一 demanding trial，并和 yoked control 比较——后者接受相同的 timing，但自己不能控制时机。
 
