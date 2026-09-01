@@ -22,7 +22,7 @@ language_note: 研究术语和部分关键词保留英文。
 
 这里的 evidence 主要来自实验室中的 vigilance、task-switching、visual-search 和短时 cognitive tests。它们能检验特定的 attentional processes，但不能完整代表现实中的写作、学习或长时间阅读。因此，下文会区分直接研究结果与 practical inference。
 
-# 怎么保护 attention?
+## 怎么保护 attention?
 
 一个反复出现的研究现象是 vigilance decrement：持续执行需要 attention 的任务时，performance 往往随 time-on-task 下降。2026 年 Annual Review of Psychology 对 sustained attention 的领域综述仍把这一点视为几十年来重复出现的结果，但为什么下降并没有统一解释。resource depletion、mind-wandering、motivation、control allocation 能解释一部分现象，没有一个模型完整解释所有结果。该领域也存在不同 task paradigm 和术语之间难以直接对应的问题。<a id="cite-humphrey-2026"></a>[[Humphrey et al., 2026]](#ref-humphrey-2026)
 
@@ -58,7 +58,7 @@ Patel et al. 2024 做了 5 个 vigilance experiments，研究参与者能否根�
 
 但 introspection 并不是精确的 attention meter。日常不需要把状态量化到 reaction-time 毫秒级。更实用的问题是：“我现在还能不能以满意的质量继续这个任务？”这可以作为 decision rule，但不等于对 objective cognitive state 的精确测量。
 
-# attention 已经下降以后，怎么最快恢复?
+## attention 已经下降以后，怎么最快恢复?
 
 这里研究没有前一部分成熟。
 
@@ -80,11 +80,11 @@ Albulescu et al.（2022）的 systematic review 和 meta-analysis 纳入 19 项�
 
 目前只能给出一个 practical default：发现 attention 明显下降后，先停止当前任务和 demanding input；短暂休息后重新判断状态，如果仍未 ready，可以继续安静休息或尝试轻度走路；状态恢复后再重新进入任务。这是一种基于有限证据的操作建议，而不是已经验证的 optimal recovery protocol。
 
-# 其他影响 attentional readiness 的因素
+## 其他影响 attentional readiness 的因素
 
 以下讨论三个日常中常见、并可能改变 attentional readiness 的因素，它们与前面讨论的 task switching、competing stimuli 和 time-on-task 不在同一层面，相关证据的成熟度也不同。
 
-## 1. 睡眠
+### 1. 睡眠
 
 睡眠不足对 sustained attention 的损害，是 sleep and cognition research 中较稳定的发现。Sleep-restriction experiments 通常让参与者在正常睡眠和限制睡眠条件下完成 PVT（Psychomotor Vigilance Test，一种测量 sustained attention 的反应时任务）或其他 cognitive tests。总体而言，睡眠受限最一致地表现为主观 sleepiness 增加、反应变慢和 attentional lapses 增多；对 working memory、inhibitory control 等其他 cognitive domains 的影响则没有同样稳定。<a id="cite-hudson-2020"></a>[[Hudson et al., 2020]](#ref-hudson-2020)
 
@@ -92,7 +92,7 @@ Wüst et al.（2024）的 systematic review 和 meta-analysis 为这一总体结
 
 因此，从更广泛的研究来看，睡眠状态会影响一个人开始和维持 attentional performance 的基础条件。存在 sleep debt 时，普通 break 或短期 attention-management technique 不能提供与睡眠等价的恢复。[[Hudson et al., 2020]](#ref-hudson-2020)
 
-## 2. 饮食
+### 2. 饮食
 
 饮食与 cognition 的研究涵盖长期 dietary pattern，也包括进餐后数小时内的 acute cognitive response。就 attentional readiness 而言，相关的是后者。这个领域的结果受 meal composition、glycaemic response、测试时间和个体代谢状态等因素影响，不同 cognitive domains 的反应也不一致。因此，目前没有证据支持某一种 meal composition 能够稳定提高所有人的 attention，也不能用“高碳水导致 attention 下降”概括现有研究。
 
@@ -100,7 +100,7 @@ Gaylor et al.（2022）研究的是这个领域中一个更具体的问题：早
 
 因此，如果一个人反复观察到某类 meal 后 attentional readiness 下降，可以调整 carbohydrate quality、整体 meal composition 或进餐时间，并观察自身反应。这属于基于个体规律进行调整，并不是 evidence-based 的 universal cognition-optimizing diet。
 
-## 3. 屏幕工作与视觉负荷
+### 3. 屏幕工作与视觉负荷
 
 屏幕工作与 dry eye、眼部不适、视物模糊和头痛等 digital eye strain symptoms 相关；观看时间较长和较差的 ergonomic parameters 也与更多症状相关。不过，研究使用的诊断标准和方法差异较大，相关证据多为观察性研究，不能把所有症状简单归因于屏幕本身。这个领域主要研究 visual symptoms、visual performance 和 reading performance，并未建立某种 display setting 可以直接提高 sustained attention 的普遍结论。<a id="cite-mataftsi-2023"></a>[[Mataftsi et al., 2023]](#ref-mataftsi-2023)
 
@@ -110,7 +110,7 @@ Gaylor et al.（2022）研究的是这个领域中一个更具体的问题：早
 
 日常实践更适合以 visual comfort 为目标：调整亮度和环境照明，避免不舒适的 contrast 和 glare，使用合适的字号与观看距离，并根据具体环境选择 display polarity。优化 ergonomic parameters 可能有助于减少 digital eye strain symptoms，但目前证据质量有限；更不能据此声称这些设置会直接恢复或提高 attention。[[Mataftsi et al., 2023]](#ref-mataftsi-2023)
 
-# 小结
+## 小结
 
 保护 attention：减少不必要的 switching 和 competing stimuli，把连续高质量时间留给一个明确目标；用 self-awareness 辅助识别状态变化，但不把 introspection 当作精确 measurement。
 
@@ -122,7 +122,7 @@ attention 下降以后：short break 可以改善主观 fatigue 和 vigor，但�
 
 屏幕使用：主要通过 visual load 和 reading comfort 影响整体 functional state；positive polarity 在 proofreading experiments 中有 performance advantage，但该研究没有显示对应的 eyestrain advantage；蓝光过滤目前没有被 clinical-trial evidence 支持为 digital eye strain 的主要 intervention。
 
-# References
+## References
 
 <a id="ref-albulescu-2022"></a>
 Albulescu, P., Macsinga, I., Rusu, A., Sulea, C., Bodnaru, A., & Tulbure, B. T. (2022). “Give me a break!” A systematic review and meta-analysis on the efficacy of micro-breaks for increasing well-being and performance. *PLoS ONE, 17*(8), e0272460. https://doi.org/10.1371/journal.pone.0272460 [↩](#cite-albulescu-2022)
