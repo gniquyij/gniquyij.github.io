@@ -15,11 +15,11 @@ ai_disclosure: 资料由 AI 协助检索、核查和整理。
 language_note: 研究术语和部分关键词保留英文。
 ---
 
-## 怎么保护 attention，让自己在需要工作、学习、阅读时能迅速进入并维持高质量状态？attention 明显下降后，怎么最快恢复？
+怎么保护 attention，让自己在需要工作、学习、阅读时能迅速进入并维持高质量状态？attention 明显下降后，怎么最快恢复？
 
 现有研究对第一个问题的答案更成熟；第二个问题没有公认的 optimal protocol。
 
-这里的 evidence 主要来自实验室中的 vigilance、task-switching、visual-search 和短时 cognitive tests。它们能检验特定的 attentional processes，但不能完整代表现实中的写作、学习或长时间阅读。因此，下文会区分直接研究结果与 practical inference。
+这里的 evidence 主要来自实验室中的 vigilance、task-switching、visual-search 和短时 cognitive tests。它们能检验特定的 attentional processes，但不能完整代表现实中的写作、学习或长时间阅读。下文会区分直接研究结果与 practical inference。
 
 ## 怎么保护 attention?
 
