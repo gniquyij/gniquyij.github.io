@@ -14,7 +14,7 @@
   var usedIds = new Set();
   var toc = document.createElement("nav");
   var tocTitle = document.createElement("p");
-  var tocList = document.createElement("ol");
+  var tocList = document.createElement("ul");
 
   toc.className = "post-toc";
   toc.setAttribute("aria-labelledby", "post-toc-title");
@@ -22,6 +22,21 @@
   tocTitle.className = "post-toc-title";
   tocTitle.textContent = document.documentElement.lang === "zh" ? "目录" : "Contents";
   tocList.className = "post-toc-list";
+
+  function updateAnchorOffset() {
+    var siteHeader = document.querySelector(".site-header");
+    var headerHeight = siteHeader ? siteHeader.getBoundingClientRect().height : 0;
+    document.documentElement.style.setProperty("--anchor-offset", headerHeight + 24 + "px");
+  }
+
+  updateAnchorOffset();
+
+  var siteHeader = document.querySelector(".site-header");
+  if (siteHeader && "ResizeObserver" in window) {
+    new ResizeObserver(updateAnchorOffset).observe(siteHeader);
+  } else {
+    window.addEventListener("resize", updateAnchorOffset);
+  }
 
   headings.forEach(function (heading, index) {
     var headingText = heading.textContent.trim();
@@ -41,12 +56,15 @@
     heading.id = id;
     usedIds.add(id);
 
-    var anchor = document.createElement("a");
-    anchor.className = "heading-anchor";
-    anchor.href = "#" + encodeURIComponent(id);
-    anchor.setAttribute("aria-label", "Permalink to " + headingText);
-    anchor.textContent = "#";
-    heading.prepend(anchor);
+    var permalink = document.createElement("a");
+    permalink.className = "heading-permalink";
+    permalink.href = "#" + encodeURIComponent(id);
+    permalink.title = "Permalink to this section";
+
+    while (heading.firstChild) {
+      permalink.appendChild(heading.firstChild);
+    }
+    heading.appendChild(permalink);
 
     var item = document.createElement("li");
     var tocLink = document.createElement("a");
@@ -66,5 +84,22 @@
     disclosure.insertAdjacentElement("afterend", toc);
   } else {
     postBody.prepend(toc);
+  }
+
+  if (window.location.hash) {
+    requestAnimationFrame(function () {
+      var targetId;
+
+      try {
+        targetId = decodeURIComponent(window.location.hash.slice(1));
+      } catch (error) {
+        targetId = window.location.hash.slice(1);
+      }
+
+      var target = document.getElementById(targetId);
+      if (target) {
+        target.scrollIntoView({ block: "start" });
+      }
+    });
   }
 })();
