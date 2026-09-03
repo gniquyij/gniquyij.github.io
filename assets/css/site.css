@@ -441,6 +441,18 @@ img {
   font-size: 0.96rem;
 }
 
+.post-body .table-scroll {
+  max-width: 100%;
+  margin: var(--space-4) 0;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.post-body .table-scroll table {
+  min-width: 56rem;
+  margin: 0;
+}
+
 .post-body th,
 .post-body td {
   padding: var(--space-2);
