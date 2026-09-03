@@ -408,8 +408,73 @@ img {
   max-width: none;
 }
 
+.post-body h2,
+.post-body h3 {
+  position: relative;
+  scroll-margin-top: 5rem;
+}
+
 .post-body h2 {
   font-size: 1.6rem;
+}
+
+.heading-anchor {
+  position: absolute;
+  right: 100%;
+  width: 1.35em;
+  color: var(--muted);
+  font-weight: 400;
+  text-align: left;
+  text-decoration: none;
+  opacity: 0.45;
+  transition: opacity 120ms ease;
+}
+
+.post-body h2:hover .heading-anchor,
+.heading-anchor:focus-visible {
+  opacity: 1;
+}
+
+.heading-anchor:hover {
+  color: var(--text);
+}
+
+.post-toc {
+  margin: 0 0 var(--space-5);
+  padding: var(--space-3) var(--space-4);
+  border-left: 2px solid var(--line);
+  color: var(--muted);
+  font-size: 0.94rem;
+  line-height: 1.5;
+}
+
+.post-toc-title {
+  margin: 0 0 var(--space-1);
+  color: var(--text);
+  font-weight: 600;
+}
+
+.post-toc-list {
+  margin: 0;
+  padding-left: 1.25rem;
+}
+
+.post-toc-item + .post-toc-item {
+  margin-top: 0.22rem;
+}
+
+.post-toc-item-h3 {
+  margin-left: var(--space-3);
+}
+
+.post-toc a {
+  text-decoration: none;
+}
+
+.post-toc a:hover {
+  color: var(--text);
+  text-decoration: underline;
+  text-underline-offset: 0.12em;
 }
 
 .post-body h3 {
@@ -490,6 +555,13 @@ img {
 }
 
 @media (max-width: 840px) {
+  .heading-anchor {
+    position: static;
+    display: inline-block;
+    width: 1em;
+    opacity: 0.45;
+  }
+
   .site-header,
   .section-head,
   .about-wrap {
