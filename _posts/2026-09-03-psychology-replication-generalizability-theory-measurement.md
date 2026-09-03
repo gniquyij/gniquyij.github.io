@@ -17,13 +17,13 @@ language_note: 研究术语和部分关键词保留英文。
 
 ## 不同研究领域走到了哪一步？
 
-“心理学”包含的研究对象和方法差异很大，很难用一个统一的“成熟度”概括。
+心理学包含的研究对象和方法差异很大，很难用一个统一的“成熟度”概括。
 
 不同研究问题能够使用的 measurement、experimental control 和 quantitative model 并不相同。有些研究可以精确控制输入，记录 reaction time、choice、error 或 physiological response，并用新数据检验定量模型。有些问题则更依赖 self-report，或更容易随个人状态、时间和环境变化。对 security、belonging、home、identity 和 meaning 等宽泛概念，是否存在边界清楚、可独立测量的单一变量，需要通过 construct-validation research 检验。
 
-下表只列出几个较宽、相对常见的研究领域，不是完整清单；领域名称大致参考 APA 在科学奖项中使用的分类。<a id="cite-apa-areas"></a>[[APA, scientific award areas]](#ref-apa-areas) 第二栏不对应已有的领域评级，而是按照 measurement、experimental control、quantitative prediction 和 external validation 四个维度作出的定性概括，仅用于说明各领域研究条件的大致差异。Construct validity、generalizability 和 theory building 的判断框架可参考 Strauss and Smith、Yarkoni 以及 Eronen and Bringmann。<a id="cite-strauss-2009"></a>[[Strauss & Smith, 2009]](#ref-strauss-2009) [[Yarkoni, 2022]](#ref-yarkoni-2022) [[Eronen & Bringmann, 2021]](#ref-eronen-2021)
+下表只列出几个较宽、相对常见的研究领域；领域名称大致参考 APA 在科学奖项中使用的分类。<a id="cite-apa-areas"></a>[[APA, scientific award areas]](#ref-apa-areas) 第二栏不对应已有的领域评级，而是按照 measurement、experimental control、quantitative prediction 和 external validation 四个维度作出的定性概括，仅用于说明各领域研究条件的大致差异。Construct validity、generalizability 和 theory building 的判断框架可参考 Strauss and Smith、Yarkoni 以及 Eronen and Bringmann。<a id="cite-strauss-2009"></a>[[Strauss & Smith, 2009]](#ref-strauss-2009) [[Yarkoni, 2022]](#ref-yarkoni-2022) [[Eronen & Bringmann, 2021]](#ref-eronen-2021)
 
-前一篇 [Attention, Attention, Attention](/writing/attention-attention-attention/) 讨论的 sustained attention、task switching 和 attentional capture 主要落在 cognition and human learning 这一领域；其中的睡眠、运动和屏幕视觉负荷部分，则还用到了 health psychology、exercise-and-cognition research 和 ergonomics 的证据。
+前一篇 [Attention, Attention, Attention](/writing/attention-attention-attention/) 讨论的 sustained attention、task switching 和 attentional capture 主要落在 cognition and human learning 这一领域；其中的睡眠、运动和屏幕视觉负荷部分，则还涉及 health psychology、exercise-and-cognition research 和 ergonomics。
 
 | 研究领域 | 定量成熟度（定性概括） | 典型研究对象 | 常用数据与方法 | 主要限制 |
 | --- | --- | --- | --- | --- |
@@ -39,7 +39,7 @@ language_note: 研究术语和部分关键词保留英文。
 | Industrial and organizational psychology | 因组织、outcome 和设计而异 | selection、performance、turnover、teamwork | 企业记录、绩效、团队网络、field experiment | 组织与制度环境不可直接互换 |
 | Community and environmental psychology | 因 construct 和 natural experiment 的识别条件而异 | community、housing、environment、belonging、security | field study、行政数据、空间行为、natural experiment | 很多 exposure 难以随机化；宽泛 construct 需要额外的 validity evidence |
 
-这仍不是完整清单。Comparative/evolutionary、counseling、school、forensic、sport 和 neuropsychology 等都没有在表中单列。表中的 behavioral and cognitive neuroscience 只涉及它与心理过程研究相交的部分，并不代表 neuroscience 整体。Computational social science、HCI / human factors 和 computational neuroscience 也没有被放进这张表：它们横跨心理学、计算机科学、工程、神经科学或社会科学，与表中按研究对象划分的领域并非同一层级，因此不适合直接比较“定量成熟度”。Psychodynamic 则是理论与临床传统，也不与上述研究领域并列。
+Comparative/evolutionary、counseling、school、forensic、sport 和 neuropsychology 等没有在表中单列。表中的 behavioral and cognitive neuroscience 只涉及它与心理过程研究相交的部分，并不代表 neuroscience 整体。Computational social science、HCI / human factors 和 computational neuroscience 也没有被放进这张表：它们横跨心理学、计算机科学、工程、神经科学或社会科学，与表中按研究对象划分的领域并非同一层级。Psychodynamic 则是理论与临床传统，不与上述研究领域并列。
 
 这并不是说后一类体验不存在，或者不值得研究。问题在于，它们可能并不是单一变量。
 
@@ -55,7 +55,7 @@ Replication 问的是重新收集数据时是否还能观察到相近结果；ge
 
 Measurement 和 construct validity 位于这三个问题的基础位置。研究者首先需要说明一个操作、量表或行为指标被解释成什么 construct，以及这种解释有哪些 validity evidence。<a id="cite-strauss-foundation"></a>[[Strauss & Smith, 2009]](#ref-strauss-2009) 如果 attention、security 或 home 没有被清楚界定，replication 只能检查同一操作化能否再次产生相近结果；generalizability 只能检查这种操作化在其他样本和情境中的表现；theory comparison 也可能无法判断理论所解释的是否真是声称的 construct。
 
-针对 replication 和统计推断问题，目前已有一组可执行的做法，包括 preregistration、Registered Reports、增加样本量、报告 uncertainty 以及公开数据和代码。<a id="cite-open-practices"></a>[[Nosek et al., 2018]](#ref-nosek-2018) [[Chambers & Tzavella, 2022]](#ref-chambers-2022) 这些做法能在多大程度上减少 p-hacking、publication bias 或偶然显著结果，取决于具体设计和执行；它们也不会自动改变旧文献的证据质量。
+针对 replication 和统计推断问题，目前已有一组可执行的做法，包括 preregistration、Registered Reports、增加样本量、报告 uncertainty 以及公开数据和代码。<a id="cite-open-practices"></a>[[Nosek et al., 2018]](#ref-nosek-2018) [[Chambers & Tzavella, 2022]](#ref-chambers-2022) 这些做法能在多大程度上减少 p-hacking、publication bias 或偶然显著结果，取决于具体设计和执行；它们不会自动改变旧文献的证据质量。
 
 Generalizability crisis 更难，因为不存在一个叫作“所有人和所有场景”的总体，可以一次抽样完成。研究者必须先说明希望泛化到哪里，再对相应的人群、任务和环境进行系统取样。它不只是把 participant number 从 50 增加到 5,000，而是扩大 variation 的范围。Yarkoni 对这一问题的核心批评是：心理学研究经常只对 participant 进行抽样，却在没有系统抽取 stimuli、tasks 和 situations 的情况下，把结论推广到更大的范围。<a id="cite-yarkoni-2022"></a>[[Yarkoni, 2022]](#ref-yarkoni-2022)
 
@@ -81,7 +81,7 @@ Theory quality 还没有一套单一、通用的改进流程。Oberauer 和 Lewa
 
 不能把心理学研究统一描述为“先有 hypothesis，再收集数据”。这里需要区分 confirmatory 和 exploratory research：前者在观察结果前指定要检验的问题与分析，后者可以从数据中寻找 pattern，再形成待检验的 hypothesis。<a id="cite-nosek-confirm"></a>[[Nosek et al., 2018]](#ref-nosek-2018)
 
-Supervised 与 unsupervised learning 可以作为一个直观类比：前者有预先指定的 target，后者尝试从未标注数据中发现 pattern。但这只是类比，不是一一对应：hypothesis-driven research 不等于 supervised learning，exploratory research 也不等于 unsupervised learning。Data-driven research 同样需要研究者选择 measurement、preprocessing、features、model 和 interpretation；machine learning 可以检查 out-of-sample prediction，但 prediction 本身不能确立 construct validity 或 causal explanation。<a id="cite-van-lissa-2023"></a>[[Van Lissa, 2023]](#ref-van-lissa-2023) [[Strauss & Smith, 2009]](#ref-strauss-2009) [[Hofman et al., 2021]](#ref-hofman-2021)
+Supervised 与 unsupervised learning 可以作为类比：前者有预先指定的 target，后者尝试从未标注数据中发现 pattern。但这只是类比，hypothesis-driven research 不等于 supervised learning，exploratory research 也不等于 unsupervised learning。Data-driven research 同样需要研究者选择 measurement、preprocessing、features、model 和 interpretation；machine learning 可以检查 out-of-sample prediction，但 prediction 本身不能确立 construct validity 或 causal explanation。<a id="cite-van-lissa-2023"></a>[[Van Lissa, 2023]](#ref-van-lissa-2023) [[Strauss & Smith, 2009]](#ref-strauss-2009) [[Hofman et al., 2021]](#ref-hofman-2021)
 
 心理学文献中一个有记录的研究规范问题是：部分研究过程具有 exploratory 性质，结果却被呈现为事先预测的 confirmatory finding。Kerr 将这种做法称为 HARKing：hypothesizing after the results are known。<a id="cite-kerr-1998"></a>[[Kerr, 1998]](#ref-kerr-1998) 即使研究者没有故意反复尝试分析，data-dependent decisions 也可能形成 Gelman 和 Loken 所说的 garden of forking paths，使原本的 significance test 不再具有表面上的含义。<a id="cite-gelman-2013"></a>[[Gelman & Loken, 2013]](#ref-gelman-2013)
 
@@ -89,23 +89,23 @@ Supervised 与 unsupervised learning 可以作为一个直观类比：前者有�
 
 broad observation → pattern discovery → new hypothesis → independent confirmation → external validation → causal test
 
-第一批数据可以用于发现 cluster、时间模式和新的 construct；第二批独立数据用于检查这些结构是否再次出现，以及模型能否预测未见过的人；之后再通过 experiment 或 natural experiment 判断模型抓到的是 causal mechanism，还是只具有预测价值的相关信号。
+第一批数据可以用于发现 cluster、时间模式和新的 construct；第二批独立数据用于检查这些结构是否再次出现，以及模型能否预测新参与者的测量结果；之后再通过 experiment 或 natural experiment 判断模型抓到的是 causal mechanism，还是只具有预测价值的相关信号。
 
 Preregistration 的一个目的，是区分观察结果之前指定的 research questions 和 analysis plan，与观察结果之后形成的分析或解释；探索性分析仍然可以报告，但需要被标明。<a id="cite-nosek-prereg"></a>[[Nosek et al., 2018]](#ref-nosek-2018) 它不能仅凭“已经 preregistered”保证 measurement、执行和推断都正确。
 
 ## 计算方法改变了什么？
 
-前面的表格没有把 computational social science、HCI / human factors、computational cognitive modeling、computational neuroscience 和 computational psychiatry 当作心理学子领域进行比较。它们的边界和层级并不相同。这里把它们放在同一节，是为了回答另一个问题：计算方法进入这些研究之后，具体增加了哪些可以观察、建模或检验的东西，又留下了哪些限制？
+前面的表格没有把 computational social science、HCI / human factors、computational cognitive modeling、computational neuroscience 和 computational psychiatry 当作心理学子领域进行比较。它们的边界和层级并不相同。这里把它们放在一起，来回答另一个问题：计算方法进入这些研究之后，具体增加了哪些可以观察、建模或检验的东西，又留下了哪些限制？
 
 Computational social science 把 social science 的研究问题与大规模 digital data、computational modeling 和 machine learning 等方法结合起来。Communication、mobility、transaction 和 online interaction 等数字记录，使研究者能够在以往较难达到的规模和时间跨度上观察 collective behavior、social network 和 information diffusion。<a id="cite-lazer-2009"></a>[[Lazer et al., 2009]](#ref-lazer-2009) Machine learning 在这里可以用于 prediction 和 pattern discovery，实验与因果推断则回答不同的问题。Hofman 等人因此主张将 explanation 与 prediction 明确区分并结合，而不是把预测准确度本身当作机制解释。<a id="cite-hofman-2021"></a>[[Hofman et al., 2021]](#ref-hofman-2021) 数字记录也不是对社会的无偏取样：平台人口、平台特有行为以及数据获取方式都可能造成偏差。<a id="cite-ruths-2014"></a>[[Ruths & Pfeffer, 2014]](#ref-ruths-2014)
 
-HCI 和 human factors 关注人与 interactive systems 的交互，以及系统如何适配人的能力与限制。具体方法随研究问题而异，并不存在一套统一的 HCI protocol。以 NIST 的 Human-Centered Technologies Group 为例，其工作明确包括 user-centered measurement and evaluation、human factors、cognitive science、user-centered design 和 usability；这只能说明该研究机构的范围，不能代表所有 HCI 研究。<a id="cite-nist-hct"></a>[[NIST, n.d.]](#ref-nist-hct) 研究者可以把设计做成可操作的系统，再观察人在具体任务中的表现；但某个 interface 在一个任务中表现更好，并不自动构成关于一般人类心理的理论。
+HCI，以及与它部分重叠的 human factors，研究 interactive computing systems 的设计、评估和使用，以及人与这些系统交互时出现的现象。研究者可以把一个设计构想做成 prototype，在具体任务中比较不同方案，并测量 completion time、error、behavior 或 subjective experience；也可以使用访谈、观察和 field study。它的特点不是拥有一套统一的 protocol，而是能够在设计、系统实现和 empirical evaluation 之间形成较短的反馈循环。相应地，某个 interface 在特定用户、任务和情境中表现更好，首先支持的是关于该设计的结论，并不自动构成关于一般人类心理的理论。
 
 Computational cognitive modeling 更像 cognition and human learning 内部的一组方法，而不是边界清楚的新子领域。研究者把关于 memory、learning 或 decision-making 的假设写成能够运行的 model，再比较不同模型对 reaction time、choice 或 error pattern 的预测。它的价值在于迫使 theory 给出更明确的 prediction；限制是多个模型仍可能产生相近结果，而且模型的形式精确不等于其中的 psychological construct 已经有效。<a id="cite-oberauer-computational"></a>[[Oberauer & Lewandowsky, 2019]](#ref-oberauer-2019)
 
-Computational neuroscience 使用数学模型与 simulation 描述神经活动，或提出神经系统如何实现 perception、decision 和 learning 的机制。这个领域既包含对数据的描述性模型，也包含 normative 与 mechanistic models，并 increasingly 使用 machine learning。<a id="cite-wang-2020"></a>[[Wang et al., 2020]](#ref-wang-2020) Artificial neural networks 可以生成能够与 neural 和 behavioral data 比较的预测，但其组成和学习方式并不因此等同于真实大脑；如果模型的目标是解释 biological mechanism，就需要检验 neuron、plasticity、inhibition 和 connectivity 等 biological constraints。<a id="cite-pulvermuller-2021"></a>[[Pulvermüller et al., 2021]](#ref-pulvermuller-2021)
+Computational neuroscience 使用数学模型与 simulation 描述神经活动，或提出神经系统如何实现 perception、decision 和 learning 的机制。这个领域包含 descriptive、normative 和 mechanistic models。Machine learning 也被用于 neural data analysis 和 prediction，但它本身并不构成一种 mechanistic explanation。<a id="cite-wang-2020"></a>[[Wang et al., 2020]](#ref-wang-2020) Artificial neural networks 可以生成能够与 neural 和 behavioral data 比较的预测，但其组成和学习方式并不因此等同于真实大脑；如果模型的目标是解释 biological mechanism，就需要检验 neuron、plasticity、inhibition 和 connectivity 等 biological constraints。<a id="cite-pulvermuller-2021"></a>[[Pulvermüller et al., 2021]](#ref-pulvermuller-2021)
 
-Computational psychiatry 试图把 clinical data、neuroscience、mechanistic model 和 machine learning 结合起来。Theory-driven approaches 可以把疾病机制写进模型；data-driven approaches 可以用于 classification 或 treatment-outcome prediction。<a id="cite-huys-2016"></a>[[Huys et al., 2016]](#ref-huys-2016) 但对 228 项 psychiatric prediction studies 的 systematic review 发现，许多模型仍存在高 risk of bias、缺少 independent external validation，能够证明 real-world clinical implementation 的研究也很少。<a id="cite-meehan-2022"></a>[[Meehan et al., 2022]](#ref-meehan-2022)
+Computational psychiatry 试图把 clinical data、neuroscience、mechanistic model 和 machine learning 结合起来。Theory-driven approaches 可以把疾病机制写进模型；data-driven approaches 可以用于 classification 或 treatment-outcome prediction。<a id="cite-huys-2016"></a>[[Huys et al., 2016]](#ref-huys-2016) 但对 228 项 psychiatric prediction studies 的 systematic review 发现，许多模型仍存在高 risk of bias、缺少 independent external validation，能够证明 real-world clinical implementation 的研究很少。<a id="cite-meehan-2022"></a>[[Meehan et al., 2022]](#ref-meehan-2022)
 
 这些领域可能显得更科学。一个可能的原因是：研究者往往必须把 measurement、algorithm 或 mechanism 写得更明确，模型或系统还可以在新数据和新任务上直接测试。Computation 在这里增加的是表达和检验的能力；研究的 validity 仍取决于数字记录是否具有 representativeness、prediction 是否对应所需的 explanation，以及模型中的 construct 是否成立。它把前面的 tension 表达得更清楚：模型可以非常精确，但这种精确性首先属于模型，模型与完整研究对象之间的关系仍然需要证据。
 
@@ -170,9 +170,6 @@ Meehan, A. J., Lewis, S. J., Fazel, S., et al. (2022). Clinical prediction model
 
 <a id="ref-moshontz-2018"></a>
 Moshontz, H., et al. (2018). The Psychological Science Accelerator: Advancing psychology through a distributed collaborative network. *Advances in Methods and Practices in Psychological Science, 1*(4), 501–515. https://doi.org/10.1177/2515245918797607 [↩](#cite-moshontz-2018)
-
-<a id="ref-nist-hct"></a>
-National Institute of Standards and Technology. (n.d.). *Human-Centered Technologies.* https://www.nist.gov/itl/tted/human-centered-technologies [↩](#cite-nist-hct)
 
 <a id="ref-nosek-2018"></a>
 Nosek, B. A., Ebersole, C. R., DeHaven, A. C., & Mellor, D. T. (2018). The preregistration revolution. *Proceedings of the National Academy of Sciences, 115*(11), 2600–2606. https://doi.org/10.1073/pnas.1708274114 [↩](#cite-nosek-2018)
