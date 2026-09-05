@@ -11,7 +11,7 @@ tags:
   - 可复现性
   - 研究方法
 ai_assisted: true
-ai_disclosure: AI 协助整理。
+ai_disclosure: 本文由 AI 协助整理。
 ---
 
 ## 不同研究领域走到了哪一步？

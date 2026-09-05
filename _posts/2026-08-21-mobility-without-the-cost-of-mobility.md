@@ -11,7 +11,7 @@ tags:
   - 居住
   - 所有权
 ai_assisted: true
-ai_disclosure: AI 协助整理。
+ai_disclosure: 本文由 AI 协助整理。
 ---
 
 如何在同时追求 mobility 和随时离开的自由（exitability）的情况下，仍然拥有舒适、完整、有 home security 的当下生活，而不是因为“以后还会走”长期把现在当作过渡期？为了方便未来搬家，我长期让住所停留在临时状态。它没有让当下住得舒服，也没有让搬家本身轻松多少。

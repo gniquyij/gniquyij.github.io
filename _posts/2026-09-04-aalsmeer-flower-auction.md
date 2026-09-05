@@ -11,7 +11,7 @@ tags:
   - Royal FloraHolland
   - 鲜花拍卖
 ai_assisted: true
-ai_disclosure: AI 协助整理。
+ai_disclosure: 本文由 AI 协助整理。
 ---
 
 才知道鲜花走拍卖，也才知道世界最大的鲜花拍卖在荷兰 Aalsmeer。这里也卖盆栽和园艺植物，现场还看到整车的装饰南瓜。

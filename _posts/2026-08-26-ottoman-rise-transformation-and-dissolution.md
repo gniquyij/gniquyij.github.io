@@ -9,7 +9,7 @@ tags:
   - 奥斯曼
   - 历史
 ai_assisted: true
-ai_disclosure: AI 协助整理。
+ai_disclosure: 本文由 AI 协助整理。
 ---
 
 ## 为什么会崛起？
