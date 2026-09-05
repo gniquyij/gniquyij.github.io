@@ -19,6 +19,8 @@ language_note: 关键词保留原文。
 
 参观得早起。Visitor Centre 工作日早上 7:00 开放，结束时间根据日期为 9:00 或 11:00，最好接近开门时间去。官方导览写的是拍卖早上 6:00 开始，根据货量在 8:00—10:00 之间结束。早上可以看到台车密集移动、订单不断被拆分和重组；去晚了，主要拍卖和分拨已经接近收尾。接收进口货物的 Dock Services 是 7 * 24 小时运作。货物在夜间和清晨到达，成交后进入 picking、组货和公路运输。
 
+<img src="/assets/images/aalsmeer/flower-trolleys.jpg" alt="等待拍卖和分拨的鲜花 trolley" style="display:block;width:100%;max-width:720px;height:auto;margin:1.5rem auto;">
+
 ## 为什么鲜花要用拍卖
 
 Aalsmeer 的合作社鲜花拍卖可以追溯到 1912 年前后。种植者把货集中起来，通过公开拍卖同时面对多个买家，不再分别找中间商谈价。后来生产量、买家数量和跨区域贸易继续扩大。拍卖可以在早晨快速完成定价和分货，也方便买家集中比较货源和规格。
@@ -33,6 +35,8 @@ Aalsmeer 的合作社鲜花拍卖可以追溯到 1912 年前后。种植者把�
 
 荷式拍卖和常见的英式拍卖方向相反：英式拍卖从低价往上加，最高者得；荷式拍卖从高价往下掉，第一个按键的人取得购买权。再等一秒，价格可能更低，也可能被别人先买走。
 
+<img src="/assets/images/aalsmeer/auction-clock-demo.jpg" alt="Visitor Centre 的 auction clock 屏幕" style="display:block;width:100%;max-width:720px;height:auto;margin:1.5rem auto;">
+
 auction clock 主要看五件事：什么花、有多少、当前价格、买家买了多少、还剩多少。屏幕上方列出接下来六批商品；当前商品显示照片、grower、品种和茎长、重量、花苞数等规格。A1、A2 和 B 是质量等级，A1 最高；QI 反映 grower 提供的商品信息是否可靠。后面如果还有很多批类似玫瑰，买家可以不抢当前这一批，所以后续供给也会影响当前价格。
 
 价格下降，买家按键，系统记录成交价格和购买数量；没有卖完的部分继续拍。钟面上的蓝点是最低价，价格降过蓝点仍未成交，这批商品就会撤回。官方导览称，每年约有 1% 的拍卖商品因此撤回，之后粉碎制成堆肥。
@@ -45,9 +49,13 @@ auction clock 主要看五件事：什么花、有多少、当前价格、买家
 
 拍卖只确定谁以什么价格买了多少；接下来要在这栋建筑里把具体的几桶花找出来。
 
+<img src="/assets/images/aalsmeer/order-picking-floor.jpg" alt="按区域划分的 picking 现场" style="display:block;width:100%;max-width:720px;height:auto;margin:1.5rem auto;">
+
 现场主要能看到几套设备：二层红色的 Aalsmeer Shuttle、连接楼层的 lift / transfer system、一层自动运输和 Buffer Place，以及两种人工驾驶的车辆。一种 electric tug 拖着一列 trolley，在不同区域之间运输；另一种是工作人员驾驶的小型分拨车，在 picking 区穿梭、搬运少量 bucket。工作人员再用手里的 scanner，把货物与位置、trolley 和订单对应起来。
 
 Aalsmeer Shuttle 是一套长 18 公里的悬挂式输送系统，负责把整辆 trolley 抬升、穿墙并越过道路，送到 34 个买家包装区。车头交易单的条码由两只激光读取，轨道条码对应各个包装区；橙红色横杆各有一台电机，自动把 trolley 送入目的地。开车绕行最长需要 45 分钟，Shuttle 最多用 10 分钟；每小时可运 2,600 辆 trolley，相当于约 120 辆满载卡车。空 trolley 也由系统自动送回，所有 trolley 每天合计运行约 39,000 公里。这套设备由德国 Eisenmann 制造，原本用于汽车工业运输车身；官方导览称，Royal FloraHolland 是唯一把它用于花卉物流的企业。
+
+<img src="/assets/images/aalsmeer/aalsmeer-shuttle.jpg" alt="二层的 Aalsmeer Shuttle" style="display:block;width:100%;max-width:720px;height:auto;margin:1.5rem auto;">
 
 红色设备上的 396、511、522 之类不是花的编号，而是 station / position。自动设备负责固定路线上的运输、分流和暂存；electric tug 负责成列移动 trolley，小型分拨车服务具体的 picking 路线；人工同时处理组车和异常情况。
 
@@ -91,6 +99,8 @@ Aalsmeer 本身也有冷藏设施，但用途主要是让货物在接收、查�
 现场工作人员提到，现在约有 30% 的花来自荷兰。非洲的 Kenya 和 Ethiopia 是重要进口来源国，尤其供应玫瑰。
 
 墙上的 World Floriculture Map 汇总了全球花卉贸易流向，使用的贸易数据主要截至 2020 年。图上居然还有一条从北韩方向连往中国的贸易线。
+
+<img src="/assets/images/aalsmeer/world-floriculture-map.jpg" alt="Visitor Centre 的 World Floriculture Map" style="display:block;width:100%;max-width:720px;height:auto;margin:1.5rem auto;">
 
 ## 花在非洲种，为什么在荷兰交易
 
