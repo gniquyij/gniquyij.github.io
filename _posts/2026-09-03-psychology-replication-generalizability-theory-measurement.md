@@ -12,7 +12,6 @@ tags:
   - 研究方法
 ai_assisted: true
 ai_disclosure: AI 协助整理。
-language_note: 关键词保留原文。
 ---
 
 ## 不同研究领域走到了哪一步？

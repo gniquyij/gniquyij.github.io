@@ -10,7 +10,6 @@ tags:
   - 历史
 ai_assisted: true
 ai_disclosure: AI 协助整理。
-language_note: 关键词保留原文。
 ---
 
 ## 为什么会崛起？

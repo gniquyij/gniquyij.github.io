@@ -12,7 +12,6 @@ tags:
   - 工作方法
 ai_assisted: true
 ai_disclosure: AI 协助整理。
-language_note: 关键词保留原文。
 ---
 
 怎么保护 attention，让自己在需要工作、学习、阅读时能迅速进入并维持高质量状态？attention 明显下降后，怎么最快恢复？
