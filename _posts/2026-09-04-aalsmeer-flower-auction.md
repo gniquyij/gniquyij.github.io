@@ -14,7 +14,7 @@ tags:
 
 才知道鲜花走拍卖，也才知道世界最大的鲜花拍卖在荷兰 Aalsmeer。这里也卖盆栽和园艺植物，现场还看到整车的装饰南瓜。
 
-参观得早起。Visitor Centre 工作日早上 7:00 开放，结束时间根据日期为 9:00 或 11:00，最好接近开门时间去。官方导览写的是拍卖早上 6:00 开始，根据货量在 8:00—10:00 之间结束。早上可以看到台车密集移动、订单不断被拆分和重组；去晚了，主要拍卖和分拨已经接近收尾。接收进口货物的 Dock Services 则是 7×24 小时运作。货物在夜间和清晨到达，成交后进入 picking、组货和公路运输。
+参观得早起。Visitor Centre 工作日早上 7:00 开放，结束时间根据日期为 9:00 或 11:00，最好接近开门时间去。官方导览写的是拍卖早上 6:00 开始，根据货量在 8:00—10:00 之间结束。早上可以看到台车密集移动、订单不断被拆分和重组；去晚了，主要拍卖和分拨已经接近收尾。接收进口货物的 Dock Services 是 7 * 24 小时运作。货物在夜间和清晨到达，成交后进入 picking、组货和公路运输。
 
 ## 为什么鲜花要用拍卖
 
@@ -146,7 +146,7 @@ Aalsmeer 本身也有冷藏设施，但用途主要是让货物在接收、查�
 | 前五出口目的地 | Germany、UK、France、Italy、Poland |
 | 前五进口来源国 | Kenya、Ethiopia、Israel、Belgium、Germany |
 
-## 资料
+## 参考资料
 
 - [Royal FloraHolland](https://www.royalfloraholland.com/)
 - [Aalsmeer 官方导览](https://izi.travel/en/cda7-royal-floraholland/en)

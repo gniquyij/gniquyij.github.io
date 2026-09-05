@@ -26,7 +26,7 @@ lang_tab: zh
     {% for entry in sorted_entries %}
       {% unless entry.archived %}
       {% assign entry_group = entry.tag %}
-      {% if entry.tag == "游戏" or entry.tag == "翻译" or entry.tag == "生活" %}
+      {% if entry.tag == "游戏" or entry.tag == "翻译" or entry.tag == "生活" or entry.tag == "荷兰" %}
         {% assign entry_group = "其他" %}
       {% endif %}
       <article data-category="{{ entry_group }}">
