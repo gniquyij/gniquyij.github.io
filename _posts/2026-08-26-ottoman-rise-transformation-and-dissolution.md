@@ -9,8 +9,8 @@ tags:
   - 奥斯曼
   - 历史
 ai_assisted: true
-ai_disclosure: 资料由 AI 协助检索、核查和整理。
-language_note: 地名和制度名称保留原文。
+ai_disclosure: AI 协助整理。
+language_note: 关键词保留原文。
 ---
 
 ## 为什么会崛起？

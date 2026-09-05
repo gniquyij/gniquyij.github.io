@@ -11,8 +11,8 @@ tags:
   - 可复现性
   - 研究方法
 ai_assisted: true
-ai_disclosure: 资料由 AI 协助检索、核查和整理。
-language_note: 研究术语和部分关键词保留英文。
+ai_disclosure: AI 协助整理。
+language_note: 关键词保留原文。
 ---
 
 ## 不同研究领域走到了哪一步？

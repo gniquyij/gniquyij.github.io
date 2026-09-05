@@ -18,7 +18,7 @@ layout: default
   </header>
   <div class="post-body">
     {% if page.ai_assisted %}
-      <aside class="ai-disclosure">{{ page.ai_disclosure | default: "资料由 AI 协助检索和初步归纳。" }}{% if page.language_note %}{{ page.language_note }}{% endif %}</aside>
+      <aside class="ai-disclosure">{{ page.ai_disclosure | default: "AI 协助整理。" }}{% if page.language_note %}{{ page.language_note }}{% endif %}</aside>
     {% endif %}
     {{ content }}
   </div>
