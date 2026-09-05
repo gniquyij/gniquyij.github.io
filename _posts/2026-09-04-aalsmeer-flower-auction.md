@@ -4,9 +4,9 @@ title: 去 Aalsmeer 看鲜花拍卖
 description: 从荷式 auction clock 看到成交后的拆单、拣选和全球花卉物流。
 date: 2026-09-04
 lang: zh
-type: Travel
-category: 荷兰
+category: 旅行
 tags:
+  - 荷兰
   - Aalsmeer
   - Royal FloraHolland
   - 鲜花拍卖

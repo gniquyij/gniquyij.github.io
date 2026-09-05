@@ -4,8 +4,7 @@ title: Attention, Attention, Attention
 description: 如何保护注意力、识别其下降，并根据现有研究选择更可靠的恢复方式。
 date: 2026-09-01
 lang: zh
-type: Question
-category: 生活
+category: 日常
 tags:
   - 注意力
   - 认知

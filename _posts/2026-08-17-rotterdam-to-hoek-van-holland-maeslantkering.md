@@ -2,11 +2,11 @@
 layout: post
 title: 从鹿特丹骑到荷兰角：Maeslantkering
 description: 沿 Nieuwe Waterweg 骑行 50 公里，去看平时开放、风暴潮来临时关闭的 Maeslantkering。
-date: 2026-09-02
+date: 2026-08-17
 lang: zh
-type: Travel
-category: 荷兰
+category: 旅行
 tags:
+  - 荷兰
   - 骑行
   - Maeslantkering
   - Delta Works

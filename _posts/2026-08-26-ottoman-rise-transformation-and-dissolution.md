@@ -3,8 +3,7 @@ layout: post
 title: 奥斯曼为什么会崛起、兴盛时发展了什么、为什么会衰退？
 date: 2026-08-26
 lang: zh
-type: Question
-category: 生活
+category: 日常
 tags:
   - 奥斯曼
   - 历史

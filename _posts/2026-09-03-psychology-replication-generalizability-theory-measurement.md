@@ -4,8 +4,7 @@ title: 从 Replication Crisis 到 Generalizability、Theory 和 Measurement
 description: 心理学的方法论问题不只在结果能否重复，还涉及测量、泛化、理论、因果推断和现实应用。
 date: 2026-09-03
 lang: zh
-type: Question
-category: 生活
+category: 日常
 tags:
   - 心理学
   - 可复现性

@@ -1,26 +1,22 @@
 - date: 2026-09-04
   title: 去 Aalsmeer 看鲜花拍卖
   url: /writing/aalsmeer-flower-auction/
-  tag: 荷兰
-  type: Travel
+  category: 旅行
   description: 从荷式拍卖钟看到成交后的拆单、拣选和全球花卉物流。
 - date: 2026-09-03
   title: 从 Replication Crisis 到 Generalizability、Theory 和 Measurement
   url: /writing/psychology-replication-generalizability-theory-measurement/
-  tag: 生活
-  type: Question
+  category: 日常
   description: 心理学的方法论问题不只在结果能否重复，还涉及测量、泛化、理论、因果推断和现实应用。
 - date: 2026-09-01
   title: Attention, Attention, Attention
   url: /writing/attention-attention-attention/
-  tag: 生活
-  type: Question
+  category: 日常
   description: 如何保护注意力、识别其下降，并根据现有研究选择更可靠的恢复方式。
 - date: 2026-08-26
   title: 奥斯曼为什么会崛起、兴盛时发展了什么、为什么会衰退？
   url: /writing/ottoman-rise-transformation-and-dissolution/
-  tag: 生活
-  type: Question
+  category: 日常
 - date: 2026-08-25
   title: 荷兰超市优惠监测
   url: https://gniquyij.github.io/dutch-grocery-deal-monitor/zh-CN/
@@ -37,8 +33,7 @@
 - date: 2026-08-21
   title: Mobility without the cost of mobility
   url: /writing/mobility-without-the-cost-of-mobility/
-  tag: 生活
-  type: Question
+  category: 日常
   description: 如何在追求 mobility 和 exitability 的同时，不把当下长期视为过渡期？
 - date: 2025-06-13
   title: 如何在熟悉的DAW里实现基于文本的音频编辑

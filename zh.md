@@ -25,12 +25,13 @@ lang_tab: zh
     {% assign sorted_entries = site.data.chinese_entries | sort: "date" | reverse %}
     {% for entry in sorted_entries %}
       {% unless entry.archived %}
-      {% assign entry_group = entry.tag %}
-      {% if entry.tag == "游戏" or entry.tag == "翻译" or entry.tag == "生活" or entry.tag == "荷兰" %}
+      {% assign entry_label = entry.category | default: entry.tag %}
+      {% assign entry_group = entry_label %}
+      {% if entry_group == "游戏" or entry_group == "翻译" or entry_group == "生活" or entry_group == "荷兰" or entry_group == "旅行" or entry_group == "日常" %}
         {% assign entry_group = "其他" %}
       {% endif %}
       <article data-category="{{ entry_group }}">
-        <p class="meta"><time class="entry-date" datetime="{{ entry.date }}">{{ entry.date }}</time><span class="meta-sep">·</span><span class="entry-tag">{{ entry.tag }}</span></p>
+        <p class="meta"><time class="entry-date" datetime="{{ entry.date }}">{{ entry.date }}</time><span class="meta-sep">·</span><span class="entry-tag">{{ entry_label }}</span></p>
         <h3>
           <a href="{{ entry.url | relative_url }}">{{ entry.title }}</a>{% if entry.external %} <span class="external-mark">↗</span>{% endif %}
         </h3>

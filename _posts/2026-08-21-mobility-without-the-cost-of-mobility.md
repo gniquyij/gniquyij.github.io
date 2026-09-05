@@ -4,8 +4,7 @@ title: Mobility without the cost of mobility
 description: 如何在追求 mobility 和 exitability 的同时，不把当下长期视为过渡期？
 date: 2026-08-21
 lang: zh
-type: Question
-category: 生活
+category: 日常
 tags:
   - 流动性
   - 居住
