@@ -22,7 +22,7 @@ lang_tab: en
     {% for entry in sorted_entries %}
       {% unless entry.archived %}
       {% assign entry_group = entry.tag %}
-      {% if entry.tag == "Writing" or entry.tag == "Math" or entry.tag == "Video" or entry.tag == "Life" %}
+      {% if entry.tag == "Writing" or entry.tag == "Math" or entry.tag == "Video" or entry.tag == "Life" or entry.tag == "Travel" %}
         {% assign entry_group = "Other" %}
       {% endif %}
       <article data-category="{{ entry_group | downcase }}">
