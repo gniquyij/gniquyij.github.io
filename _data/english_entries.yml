@@ -1,3 +1,13 @@
+- date: 2026-09-22
+  title: History Along the Way
+  url: https://gniquyij.github.io/history-along-the-way/#view=world&lang=en
+  tag: Design
+  external: true
+  description: A website I built to connect historical context with places to visit, starting with Europe and growing with my travels.
+  languages:
+    - label: 简体中文
+      code: zh-CN
+      url: https://gniquyij.github.io/history-along-the-way/#view=world&lang=zh
 - date: 2026-08-25
   title: Dutch Grocery Deal Monitor
   url: https://gniquyij.github.io/dutch-grocery-deal-monitor/
