@@ -20,6 +20,8 @@ lang_tab: about
         <a href="https://github.com/gniquyij">GitHub</a>
         <span>·</span>
         <a href="https://www.instagram.com/gniquyij/">Instagram</a>
+        <span>·</span>
+        <a href="https://www.youtube.com/playlist?list=PLFUblPnc3Ixk">Meet My Dog</a>
       </p>
     </div>
   </div>
